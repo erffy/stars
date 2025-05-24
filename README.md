@@ -16,7 +16,6 @@
 - [JavaScript](#javascript)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
-- [Others](#others)
 - [Python](#python)
 - [Rust](#rust)
 - [Shell](#shell)
@@ -103,10 +102,6 @@
 ## Lua 
 
 - [lite-xl/lite-xl](https://github.com/lite-xl/lite-xl) - A lightweight text editor written in Lua
-
-## Others 
-
-- [mt190502/stars](https://github.com/mt190502/stars) - 
 
 ## Python 
 
