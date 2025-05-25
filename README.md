@@ -30,6 +30,7 @@
 
 ## C 
 
+- [PerformanC/ReZygisk](https://github.com/PerformanC/ReZygisk) - Transparent implementation of Zygisk.
 - [rockowitz/ddcutil](https://github.com/rockowitz/ddcutil) - Control monitor settings using DDC/CI and USB
 - [fjrXTR/v1llx-gki-5.10](https://github.com/fjrXTR/v1llx-gki-5.10) - villhaze! GKI Custom Kernel for 5.10 based (android12)
 - [Endermanch/LinuxInExcel](https://github.com/Endermanch/LinuxInExcel) - 
