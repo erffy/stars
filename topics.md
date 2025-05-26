@@ -259,6 +259,7 @@
 
 ## others 
 
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [rockowitz/ddcutil](https://github.com/rockowitz/ddcutil) - Control monitor settings using DDC/CI and USB
 - [bindhosts/bindhosts](https://github.com/bindhosts/bindhosts) - Systemless hosts for APatch / KernelSU / Magisk
 - [fjrXTR/v1llx-gki-5.10](https://github.com/fjrXTR/v1llx-gki-5.10) - villhaze! GKI Custom Kernel for 5.10 based (android12)
