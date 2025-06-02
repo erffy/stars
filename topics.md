@@ -18,12 +18,14 @@
 - [discord](#discord)
 - [docker](#docker)
 - [electron](#electron)
+- [firebase](#firebase)
 - [firefox](#firefox)
 - [flutter](#flutter)
 - [git](#git)
 - [github](#github)
 - [go](#go)
 - [golang](#golang)
+- [google](#google)
 - [hacktoberfest](#hacktoberfest)
 - [http](#http)
 - [ios](#ios)
@@ -36,6 +38,7 @@
 - [mac](#mac)
 - [macos](#macos)
 - [material-design](#material-design)
+- [mobile](#mobile)
 - [monitoring](#monitoring)
 - [nodejs](#nodejs)
 - [npm](#npm)
@@ -63,6 +66,7 @@
 
 ## android 
 
+- [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
 - [PerformanC/ReZygisk](https://github.com/PerformanC/ReZygisk) - Transparent implementation of Zygisk.
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [rajmani7584/Payload-Dumper-Android](https://github.com/rajmani7584/Payload-Dumper-Android) - Payload Dumper App for Android. Extract boot.img or any other partitions (images) from OTA.zip or payload.bin without PC without root on Android
@@ -135,6 +139,10 @@
 
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 
+## firebase 
+
+- [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
+
 ## firefox 
 
 - [victrme/Bonjourr](https://github.com/victrme/Bonjourr) - Minimalist & lightweight startpage inspired by iOS
@@ -168,6 +176,10 @@
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 
+## google 
+
+- [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
+
 ## hacktoberfest 
 
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
@@ -187,6 +199,7 @@
 
 ## java 
 
+- [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
 
 ## javascript 
@@ -197,6 +210,7 @@
 
 ## kotlin 
 
+- [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
 - [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android
 - [Droid-ify/client](https://github.com/Droid-ify/client) - F-Droid client with Material UI.
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
@@ -232,6 +246,10 @@
 ## material-design 
 
 - [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android
+
+## mobile 
+
+- [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
 
 ## monitoring 
 
@@ -376,7 +394,7 @@
 ## zig 
 
 - [karlseguin/websocket.zig](https://github.com/karlseguin/websocket.zig) - A websocket implementation for zig
-- [erffy/zig-waybar-contrib](https://github.com/erffy/zig-waybar-contrib) - ✨ Sleek and lightweight Waybar modules built with Zig
+- [erffy/zig-waybar-contrib](https://github.com/erffy/zig-waybar-contrib) - ✨ Lightweight Waybar modules built with Zig
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
