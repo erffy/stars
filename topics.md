@@ -304,7 +304,7 @@
 - [romanvht/ByeDPIAndroid](https://github.com/romanvht/ByeDPIAndroid) - Приложение локально запускает ByeDPI и перенаправляет весь трафик через него
 - [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
-- [chisewaguri/systemapp_nuker](https://github.com/chisewaguri/systemapp_nuker) - A module to debloat system apps with WebUI Interface
+- [chisewaguri/systemapp_nuker](https://github.com/chisewaguri/systemapp_nuker) - A KernelSU module to debloat system apps with WebUI Interface
 - [1q23lyc45/KitsuneMagisk](https://github.com/1q23lyc45/KitsuneMagisk) - A fork of KitsuneMagisk. Thanks to the original author @HuskyDG.
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [erffy/apkg](https://github.com/erffy/apkg) - 📦 A lightweight and versatile package repository for managing and distributing software packages seamlessly
