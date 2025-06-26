@@ -85,7 +85,7 @@
 - [erffy/chromium-web-store](https://github.com/erffy/chromium-web-store) - Enables installation of Chrome Web Store extensions in UnGoogled Chromium. Also provides semi-automatic extension updates.
 - [NeverDecaf/chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - Allows adding extensions from chrome web store on ungoogled-chromium. Also adds semi-automatic extension updating.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-- [chisewaguri/systemapp_nuker](https://github.com/chisewaguri/systemapp_nuker) - A module to debloat system apps with WebUI Interface
+- [chisewaguri/systemapp_nuker](https://github.com/chisewaguri/systemapp_nuker) - A KernelSU module to debloat system apps with WebUI Interface
 - [uBlockOrigin/uBOL-home](https://github.com/uBlockOrigin/uBOL-home) - uBO Lite home (MV3)
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
