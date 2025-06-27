@@ -15,6 +15,7 @@
 - [JavaScript](#javascript)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
+- [Makefile](#makefile)
 - [PowerShell](#powershell)
 - [Python](#python)
 - [QML](#qml)
@@ -74,6 +75,7 @@
 
 ## Java 
 
+- [LeavesMC/Leaves](https://github.com/LeavesMC/Leaves) - Fork of Paper aimed at repairing broken vanilla properties.
 - [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [JingMatrix/LSPosed](https://github.com/JingMatrix/LSPosed) - LSPosed Framework resuscitated
@@ -105,6 +107,10 @@
 ## Lua 
 
 - [lite-xl/lite-xl](https://github.com/lite-xl/lite-xl) - A lightweight text editor written in Lua
+
+## Makefile 
+
+- [PitchBlackRecoveryProject/android_device_xiaomi_garnet-pbrp](https://github.com/PitchBlackRecoveryProject/android_device_xiaomi_garnet-pbrp) - 
 
 ## PowerShell 
 
