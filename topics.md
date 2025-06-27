@@ -39,6 +39,7 @@
 - [mac](#mac)
 - [macos](#macos)
 - [material-design](#material-design)
+- [minecraft](#minecraft)
 - [mobile](#mobile)
 - [monitoring](#monitoring)
 - [nodejs](#nodejs)
@@ -207,6 +208,7 @@
 
 ## java 
 
+- [LeavesMC/Leaves](https://github.com/LeavesMC/Leaves) - Fork of Paper aimed at repairing broken vanilla properties.
 - [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
 
@@ -255,6 +257,10 @@
 
 - [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android
 
+## minecraft 
+
+- [LeavesMC/Leaves](https://github.com/LeavesMC/Leaves) - Fork of Paper aimed at repairing broken vanilla properties.
+
 ## mobile 
 
 - [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
@@ -287,6 +293,7 @@
 
 ## others 
 
+- [PitchBlackRecoveryProject/android_device_xiaomi_garnet-pbrp](https://github.com/PitchBlackRecoveryProject/android_device_xiaomi_garnet-pbrp) - 
 - [AloozChips/OneUIEmojiPack](https://github.com/AloozChips/OneUIEmojiPack) - Module that systemlessly replaces the AOSP emoji pack with the OneUI emoji pack. Compatible with most popular Android Root Solutions, including Magisk, KSU, and Apatch.
 - [gerritdevriese/kzones](https://github.com/gerritdevriese/kzones) - KDE KWin Script for snapping windows into zones
 - [kupiqu/SierraBreezeEnhanced](https://github.com/kupiqu/SierraBreezeEnhanced) - Originally a fork of BreezeEnhanced to make it (arguably) more minimalistic and informative
