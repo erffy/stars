@@ -24,6 +24,7 @@
 - [Svelte](#svelte)
 - [TeX](#tex)
 - [TypeScript](#typescript)
+- [Vue](#vue)
 - [Zig](#zig)
 
 ## C 
@@ -118,6 +119,7 @@
 
 ## Python 
 
+- [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
 - [dabao1955/kernel_build_action](https://github.com/dabao1955/kernel_build_action) - a action to build kernel automatically[force push warning!]
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
@@ -166,6 +168,10 @@
 - [mt190502/usmanagabot](https://github.com/mt190502/usmanagabot) - 
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod
+
+## Vue 
+
+- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 
 ## Zig 
 
