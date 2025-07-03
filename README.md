@@ -66,6 +66,7 @@
 
 ## Go 
 
+- [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
@@ -147,8 +148,6 @@
 - [AloozChips/OneUIEmojiPack](https://github.com/AloozChips/OneUIEmojiPack) - Module that systemlessly replaces the AOSP emoji pack with the OneUI emoji pack. Compatible with most popular Android Root Solutions, including Magisk, KSU, and Apatch.
 - [salvogiangri/UN1CA](https://github.com/salvogiangri/UN1CA) - Work-in-progress custom firmware for Samsung Galaxy devices.
 - [kreatoo/bouquet](https://github.com/kreatoo/bouquet) - Fully declarative Kubernetes configuration which includes multiple services and tooling
-- [erffy/apkg](https://github.com/erffy/apkg) - 📦 A lightweight and versatile package repository for managing and distributing software packages seamlessly
-- [0l3d/arrow](https://github.com/0l3d/arrow) - A Linux-specific package manager that lets you search and find missing packages at any time, regardless of your Linux distribution.
 - [kreatolinux/kpkg-repo](https://github.com/kreatolinux/kpkg-repo) - Official repository for Kreato Linux.
 
 ## Svelte 
