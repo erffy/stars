@@ -29,6 +29,8 @@
 
 ## C 
 
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
+- [ValveSoftware/wine](https://github.com/ValveSoftware/wine) - Wine with a bit of extra spice
 - [bus1/dbus-broker](https://github.com/bus1/dbus-broker) - Linux D-Bus Message Broker
 - [PerformanC/ReZygisk](https://github.com/PerformanC/ReZygisk) - Transparent implementation of Zygisk.
 - [rockowitz/ddcutil](https://github.com/rockowitz/ddcutil) - Control monitor settings using DDC/CI and USB
@@ -134,7 +136,7 @@
 ## Rust 
 
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [0l3d/ffetch](https://github.com/0l3d/ffetch) - F-Fetch targets low-spec systems. Written in Rust. It's very simple, designed so you can pick it up and replace it.
+- [0l3d/ffetch](https://github.com/0l3d/ffetch) - F-Fetch is Fast and Minimal. Written in Rust. It's very simple, designed so you can pick it up and replace it.
 - [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) - A memory safe implementation of sudo and su.
 - [j-hc/zygisk-detach](https://github.com/j-hc/zygisk-detach) - Zygisk module to detach installed apps from Play Store, hooking binder
 - [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
