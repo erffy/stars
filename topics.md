@@ -63,6 +63,7 @@
 - [self-hosted](#self-hosted)
 - [sqlite](#sqlite)
 - [svelte](#svelte)
+- [tailwindcss](#tailwindcss)
 - [terminal](#terminal)
 - [termux](#termux)
 - [typescript](#typescript)
@@ -76,6 +77,7 @@
 
 ## android 
 
+- [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
 - [PerformanC/ReZygisk](https://github.com/PerformanC/ReZygisk) - Transparent implementation of Zygisk.
@@ -244,6 +246,7 @@
 
 ## kotlin 
 
+- [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
 - [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
 - [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android
 - [Droid-ify/client](https://github.com/Droid-ify/client) - F-Droid client with Material UI.
@@ -256,6 +259,7 @@
 
 ## linux 
 
+- [ErikReider/SwayNotificationCenter](https://github.com/ErikReider/SwayNotificationCenter) - A simple GTK based notification daemon for any Wayland compositor
 - [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
 - [PancakeTAS/lsfg-vk](https://github.com/PancakeTAS/lsfg-vk) - Lossless Scaling Frame Generation on Linux via DXVK/Vulkan
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
@@ -428,6 +432,10 @@
 
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
 
+## tailwindcss 
+
+- [AkberJag/portfolio-template](https://github.com/AkberJag/portfolio-template) - A fully customizable portfolio website template built using Vue.js and Tailwind CSS.
+
 ## terminal 
 
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -458,6 +466,7 @@
 
 ## vuejs 
 
+- [AkberJag/portfolio-template](https://github.com/AkberJag/portfolio-template) - A fully customizable portfolio website template built using Vue.js and Tailwind CSS.
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 
 ## web 
