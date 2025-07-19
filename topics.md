@@ -332,6 +332,7 @@
 
 ## others 
 
+- [uazo/cromite](https://github.com/uazo/cromite) - Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser!
 - [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [ValveSoftware/wine](https://github.com/ValveSoftware/wine) - Wine with a bit of extra spice
 - [Duckonaut/split-monitor-workspaces](https://github.com/Duckonaut/split-monitor-workspaces) - A small Hyprland plugin to provide awesome-like workspace behavior
