@@ -11,6 +11,7 @@
 - [CSS](#css)
 - [Dart](#dart)
 - [Go](#go)
+- [HTML](#html)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Kotlin](#kotlin)
@@ -82,6 +83,10 @@
 - [ssut/payload-dumper-go](https://github.com/ssut/payload-dumper-go) - an android OTA payload dumper written in Go
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
+
+## HTML 
+
+- [badmojr/1Hosts](https://github.com/badmojr/1Hosts) - Advanced DNS filter/blocklists for privacy, security, and clean browsing.
 
 ## Java 
 
