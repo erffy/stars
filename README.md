@@ -16,7 +16,6 @@
 - [JavaScript](#javascript)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
-- [Makefile](#makefile)
 - [PowerShell](#powershell)
 - [Python](#python)
 - [QML](#qml)
@@ -75,6 +74,7 @@
 
 ## Go 
 
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
 - [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
@@ -123,10 +123,6 @@
 ## Lua 
 
 - [lite-xl/lite-xl](https://github.com/lite-xl/lite-xl) - A lightweight text editor written in Lua
-
-## Makefile 
-
-- [PitchBlackRecoveryProject/android_device_xiaomi_garnet-pbrp](https://github.com/PitchBlackRecoveryProject/android_device_xiaomi_garnet-pbrp) - 
 
 ## PowerShell 
 
@@ -181,7 +177,7 @@
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [victrme/Bonjourr](https://github.com/victrme/Bonjourr) - Minimalist & lightweight startpage inspired by iOS
 - [slopjs/slopjs](https://github.com/slopjs/slopjs) - 
-- [erenitylabs/sentinel](https://github.com/erenitylabs/sentinel) - Sentinel is an open-source Discord bot offering powerful moderation, utility, and economy features
+- [erffylabs/sentinel](https://github.com/erffylabs/sentinel) - Sentinel is an open-source Discord bot offering powerful moderation, utility, and economy features
 - [MegalithOfficial/Chatalia](https://github.com/MegalithOfficial/Chatalia) - A modern, local-first AI chat interface built with Tauri, React, and Rust. Secure, private, and supports multiple LLM providers. 🚀
 - [mt190502/firerss](https://github.com/mt190502/firerss) - A RSS Scraper for Browsers
 - [mt190502/usmanagabot](https://github.com/mt190502/usmanagabot) - 
