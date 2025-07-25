@@ -34,6 +34,7 @@
 - [java](#java)
 - [javascript](#javascript)
 - [kotlin](#kotlin)
+- [kubernetes](#kubernetes)
 - [language](#language)
 - [linux](#linux)
 - [lua](#lua)
@@ -148,6 +149,7 @@
 
 ## devops 
 
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 
 ## discord 
@@ -157,6 +159,7 @@
 
 ## docker 
 
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard, primarily used by smaller private servers
 - [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
@@ -211,6 +214,7 @@
 
 ## hacktoberfest 
 
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically downloads selected version at startup
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
@@ -248,6 +252,10 @@
 - [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android
 - [Droid-ify/client](https://github.com/Droid-ify/client) - Clutterfree F-Droid client
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
+
+## kubernetes 
+
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 
 ## language 
 
@@ -341,7 +349,6 @@
 - [Duckonaut/split-monitor-workspaces](https://github.com/Duckonaut/split-monitor-workspaces) - A small Hyprland plugin to provide awesome-like workspace behavior
 - [0l3d/ffetch](https://github.com/0l3d/ffetch) - F-Fetch is Fast and Minimal. Written in Rust. It's very simple, designed so you can pick it up and replace it.
 - [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) - A memory safe implementation of sudo and su.
-- [PitchBlackRecoveryProject/android_device_xiaomi_garnet-pbrp](https://github.com/PitchBlackRecoveryProject/android_device_xiaomi_garnet-pbrp) - 
 - [AloozChips/OneUIEmojiPack](https://github.com/AloozChips/OneUIEmojiPack) - Module that systemlessly replaces the AOSP emoji pack with the OneUI emoji pack. Compatible with most popular Android Root Solutions, including Magisk, KSU, and Apatch.
 - [gerritdevriese/kzones](https://github.com/gerritdevriese/kzones) - KDE KWin Script for snapping windows into zones
 - [kupiqu/SierraBreezeEnhanced](https://github.com/kupiqu/SierraBreezeEnhanced) - Originally a fork of BreezeEnhanced to make it (arguably) more minimalistic and informative
@@ -456,7 +463,7 @@
 
 ## typescript 
 
-- [erenitylabs/sentinel](https://github.com/erenitylabs/sentinel) - Sentinel is an open-source Discord bot offering powerful moderation, utility, and economy features
+- [erffylabs/sentinel](https://github.com/erffylabs/sentinel) - Sentinel is an open-source Discord bot offering powerful moderation, utility, and economy features
 - [MegalithOfficial/Chatalia](https://github.com/MegalithOfficial/Chatalia) - A modern, local-first AI chat interface built with Tauri, React, and Rust. Secure, private, and supports multiple LLM providers. 🚀
 - [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted cloud for photos, videos and 2FA secrets.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
