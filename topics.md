@@ -343,6 +343,7 @@
 
 ## others 
 
+- [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module) - Extensive ReVanced builder. Builds both modules and APKs. Updated daily.
 - [Rve27/RvKernel-Manager](https://github.com/Rve27/RvKernel-Manager) - Material 3 Expressive Design Kernel Manager for Android 12+
 - [uazo/cromite](https://github.com/uazo/cromite) - Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser!
 - [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
