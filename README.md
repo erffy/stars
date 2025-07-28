@@ -30,6 +30,7 @@
 
 ## C 
 
+- [0l3d/mif](https://github.com/0l3d/mif) - Minimal/Modern image format.
 - [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [ValveSoftware/wine](https://github.com/ValveSoftware/wine) - Wine with a bit of extra spice
@@ -74,6 +75,8 @@
 
 ## Go 
 
+- [xeome/slimserve](https://github.com/xeome/slimserve) - 
+- [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
 - [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
@@ -143,6 +146,7 @@
 
 ## Rust 
 
+- [orhun/rustypaste](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [0l3d/ffetch](https://github.com/0l3d/ffetch) - F-Fetch is Fast and Minimal. Written in Rust. It's very simple, designed so you can pick it up and replace it.
 - [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) - A memory safe implementation of sudo and su.
