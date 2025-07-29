@@ -31,6 +31,7 @@
 - [google](#google)
 - [hacktoberfest](#hacktoberfest)
 - [http](#http)
+- [image-processing](#image-processing)
 - [ios](#ios)
 - [java](#java)
 - [javascript](#javascript)
@@ -47,6 +48,7 @@
 - [mobile](#mobile)
 - [monitoring](#monitoring)
 - [neovim](#neovim)
+- [nextjs](#nextjs)
 - [nodejs](#nodejs)
 - [npm](#npm)
 - [open-source](#open-source)
@@ -58,6 +60,7 @@
 - [pwa](#pwa)
 - [python](#python)
 - [react](#react)
+- [reactjs](#reactjs)
 - [reverse-engineering](#reverse-engineering)
 - [rust](#rust)
 - [security](#security)
@@ -66,6 +69,7 @@
 - [sqlite](#sqlite)
 - [svelte](#svelte)
 - [tailwindcss](#tailwindcss)
+- [telegram](#telegram)
 - [terminal](#terminal)
 - [termux](#termux)
 - [typescript](#typescript)
@@ -79,6 +83,7 @@
 
 ## android 
 
+- [sunilpaulmathew/De-Bloater](https://github.com/sunilpaulmathew/De-Bloater) - An application using the power of Magisk to debloat unwanted system apps!
 - [badmojr/1Hosts](https://github.com/badmojr/1Hosts) - Advanced DNS filter/blocklists for privacy, security, and clean browsing.
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -165,6 +170,7 @@
 
 ## docker 
 
+- [diced/zipline](https://github.com/diced/zipline) - A ShareX/file upload server that is easy to use, packed with features, and with an easy setup!
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard, primarily used by smaller private servers
 - [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
@@ -208,6 +214,7 @@
 
 ## golang 
 
+- [marcopiovanello/yt-dlp-web-ui](https://github.com/marcopiovanello/yt-dlp-web-ui) - A terrible web ui and RPC server for yt-dlp. Designed to be self-hosted.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [ssut/payload-dumper-go](https://github.com/ssut/payload-dumper-go) - an android OTA payload dumper written in Go
 - [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted cloud for photos, videos and 2FA secrets.
@@ -220,6 +227,7 @@
 
 ## hacktoberfest 
 
+- [flyimg/flyimg](https://github.com/flyimg/flyimg) - Dockerized application that resizes and crops images on the fly, delivering optimized images in formats such as AVIF, WebP, MozJPEG, or PNG using ImageMagick, with an efficient caching system.
 - [orhun/rustypaste](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service.
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically downloads selected version at startup
@@ -233,6 +241,10 @@
 ## http 
 
 - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
+
+## image-processing 
+
+- [flyimg/flyimg](https://github.com/flyimg/flyimg) - Dockerized application that resizes and crops images on the fly, delivering optimized images in formats such as AVIF, WebP, MozJPEG, or PNG using ImageMagick, with an efficient caching system.
 
 ## ios 
 
@@ -254,6 +266,7 @@
 
 ## kotlin 
 
+- [kuvasz-uptime/kuvasz](https://github.com/kuvasz-uptime/kuvasz) - Kuvasz (pronounce as [ˈkuvɒs]) is an open-source uptime and SSL monitoring service, built in Kotlin
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
 - [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
 - [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android
@@ -318,6 +331,7 @@
 
 ## monitoring 
 
+- [kuvasz-uptime/kuvasz](https://github.com/kuvasz-uptime/kuvasz) - Kuvasz (pronounce as [ˈkuvɒs]) is an open-source uptime and SSL monitoring service, built in Kotlin
 - [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard, primarily used by smaller private servers
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
@@ -326,6 +340,10 @@
 ## neovim 
 
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+
+## nextjs 
+
+- [diced/zipline](https://github.com/diced/zipline) - A ShareX/file upload server that is easy to use, packed with features, and with an easy setup!
 
 ## nodejs 
 
@@ -420,6 +438,10 @@
 - [MegalithOfficial/Chatalia](https://github.com/MegalithOfficial/Chatalia) - A modern, local-first AI chat interface built with Tauri, React, and Rust. Secure, private, and supports multiple LLM providers. 🚀
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
+## reactjs 
+
+- [diced/zipline](https://github.com/diced/zipline) - A ShareX/file upload server that is easy to use, packed with features, and with an easy setup!
+
 ## reverse-engineering 
 
 - [timschneeb/GalaxyBudsClient](https://github.com/timschneeb/GalaxyBudsClient) - Unofficial Galaxy Buds Manager for Windows, macOS, Linux, and Android
@@ -442,6 +464,8 @@
 
 ## self-hosted 
 
+- [marcopiovanello/yt-dlp-web-ui](https://github.com/marcopiovanello/yt-dlp-web-ui) - A terrible web ui and RPC server for yt-dlp. Designed to be self-hosted.
+- [kuvasz-uptime/kuvasz](https://github.com/kuvasz-uptime/kuvasz) - Kuvasz (pronounce as [ˈkuvɒs]) is an open-source uptime and SSL monitoring service, built in Kotlin
 - [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
@@ -462,6 +486,10 @@
 ## tailwindcss 
 
 - [AkberJag/portfolio-template](https://github.com/AkberJag/portfolio-template) - A fully customizable portfolio website template built using Vue.js and Tailwind CSS.
+
+## telegram 
+
+- [Mercurygram/Mercurygram](https://github.com/Mercurygram/Mercurygram) - Unofficial, FOSS-friendly fork of the original Telegram client for Android
 
 ## terminal 
 
