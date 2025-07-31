@@ -110,6 +110,7 @@
 
 ## archlinux 
 
+- [CachyOS/New-Cli-Installer](https://github.com/CachyOS/New-Cli-Installer) - CachyOS CLI Installer
 - [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
 
 ## awesome 
@@ -371,6 +372,7 @@
 
 ## others 
 
+- [CachyOS/CachyOS-Live-ISO](https://github.com/CachyOS/CachyOS-Live-ISO) - 
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 - [0l3d/mif](https://github.com/0l3d/mif) - Minimal/Modern image format.
