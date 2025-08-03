@@ -287,6 +287,7 @@
 
 ## linux 
 
+- [InioX/matugen](https://github.com/InioX/matugen) - A material you color generation tool
 - [ErikReider/SwayNotificationCenter](https://github.com/ErikReider/SwayNotificationCenter) - A simple GTK based notification daemon for any Wayland compositor
 - [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
 - [PancakeTAS/lsfg-vk](https://github.com/PancakeTAS/lsfg-vk) - Lossless Scaling Frame Generation on Linux
@@ -309,6 +310,7 @@
 
 ## macos 
 
+- [InioX/matugen](https://github.com/InioX/matugen) - A material you color generation tool
 - [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
@@ -321,6 +323,7 @@
 
 ## material-design 
 
+- [InioX/matugen](https://github.com/InioX/matugen) - A material you color generation tool
 - [Rve27/RvKernel-Manager](https://github.com/Rve27/RvKernel-Manager) - Material 3 Expressive Design Kernel Manager for Android 12+
 - [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android
 
@@ -372,6 +375,7 @@
 
 ## others 
 
+- [Kernel-SU/ksuinit](https://github.com/Kernel-SU/ksuinit) - 
 - [bouquet2/water](https://github.com/bouquet2/water) - 💧 Simple upgrade tool made for bouquet2 that manages Talos Linux and Kubernetes versions in a declarative manner.
 - [CachyOS/CachyOS-Live-ISO](https://github.com/CachyOS/CachyOS-Live-ISO) - 
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
@@ -540,6 +544,7 @@
 
 ## windows 
 
+- [InioX/matugen](https://github.com/InioX/matugen) - A material you color generation tool
 - [badmojr/1Hosts](https://github.com/badmojr/1Hosts) - Advanced DNS filter/blocklists for privacy, security, and clean browsing.
 - [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
