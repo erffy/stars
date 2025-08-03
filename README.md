@@ -159,6 +159,8 @@
 
 ## Rust 
 
+- [InioX/matugen](https://github.com/InioX/matugen) - A material you color generation tool
+- [Kernel-SU/ksuinit](https://github.com/Kernel-SU/ksuinit) - 
 - [orhun/rustypaste](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [0l3d/ffetch](https://github.com/0l3d/ffetch) - F-Fetch is Fast and Minimal. Written in Rust. It's very simple, designed so you can pick it up and replace it.
