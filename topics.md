@@ -14,6 +14,7 @@
 - [cli](#cli)
 - [code](#code)
 - [compiler](#compiler)
+- [cpp](#cpp)
 - [csharp](#csharp)
 - [design](#design)
 - [developer-tools](#developer-tools)
@@ -143,8 +144,13 @@
 
 ## compiler 
 
+- [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [c3lang/c3c](https://github.com/c3lang/c3c) - Compiler for the C3 language
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+
+## cpp 
+
+- [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 
 ## csharp 
 
@@ -281,6 +287,7 @@
 
 ## language 
 
+- [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [c3lang/c3c](https://github.com/c3lang/c3c) - Compiler for the C3 language
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
