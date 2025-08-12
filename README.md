@@ -31,6 +31,7 @@
 
 ## C 
 
+- [xeome/riscv-kernel](https://github.com/xeome/riscv-kernel) - riscv toy kernel
 - [0l3d/mif](https://github.com/0l3d/mif) - Minimal/Modern image format.
 - [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
