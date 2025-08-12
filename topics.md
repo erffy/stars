@@ -381,6 +381,7 @@
 
 ## others 
 
+- [xeome/riscv-kernel](https://github.com/xeome/riscv-kernel) - riscv toy kernel
 - [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [Kernel-SU/ksuinit](https://github.com/Kernel-SU/ksuinit) - 
 - [bouquet2/water](https://github.com/bouquet2/water) - 💧 Simple upgrade tool made for bouquet2 that manages Talos Linux and Kubernetes versions in a declarative manner.
