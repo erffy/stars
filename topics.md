@@ -403,7 +403,6 @@
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [rockowitz/ddcutil](https://github.com/rockowitz/ddcutil) - Control monitor settings using DDC/CI and USB
 - [bindhosts/bindhosts](https://github.com/bindhosts/bindhosts) - Systemless hosts for APatch / KernelSU / Magisk
-- [Endermanch/LinuxInExcel](https://github.com/Endermanch/LinuxInExcel) - 
 - [slopjs/slopjs](https://github.com/slopjs/slopjs) - 
 - [salvogiangri/UN1CA](https://github.com/salvogiangri/UN1CA) - Work-in-progress custom firmware for Samsung Galaxy devices.
 - [erffy/chromium-web-store](https://github.com/erffy/chromium-web-store) - Enables installation of Chrome Web Store extensions in UnGoogled Chromium. Also provides semi-automatic extension updates.
