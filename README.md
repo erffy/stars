@@ -160,6 +160,7 @@
 
 ## Rust 
 
+- [ErikReider/SwayOSD](https://github.com/ErikReider/SwayOSD) - A GTK based on screen display for keyboard shortcuts like caps-lock and volume
 - [InioX/matugen](https://github.com/InioX/matugen) - A material you color generation tool
 - [Kernel-SU/ksuinit](https://github.com/Kernel-SU/ksuinit) - 
 - [orhun/rustypaste](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service.
@@ -188,6 +189,7 @@
 
 ## Svelte 
 
+- [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included!
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
 
 ## TeX 
