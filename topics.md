@@ -392,6 +392,8 @@
 
 ## others 
 
+- [systemd/zram-generator](https://github.com/systemd/zram-generator) - Systemd unit generator for zram devices
+- [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 - [saivert/pwvucontrol](https://github.com/saivert/pwvucontrol) - Pipewire Volume Control
 - [ErikReider/SwayOSD](https://github.com/ErikReider/SwayOSD) - A GTK based on screen display for keyboard shortcuts like caps-lock and volume
 - [xeome/riscv-kernel](https://github.com/xeome/riscv-kernel) - riscv toy kernel
