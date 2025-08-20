@@ -9,6 +9,7 @@
 - [archlinux](#archlinux)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
+- [bash](#bash)
 - [c](#c)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
@@ -68,6 +69,7 @@
 - [security](#security)
 - [self-hosted](#self-hosted)
 - [server](#server)
+- [shell](#shell)
 - [sqlite](#sqlite)
 - [svelte](#svelte)
 - [tailwindcss](#tailwindcss)
@@ -123,6 +125,10 @@
 ## awesome-list 
 
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included!
+
+## bash 
+
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 
 ## c 
 
@@ -505,6 +511,10 @@
 ## server 
 
 - [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard, primarily used by smaller private servers
+
+## shell 
+
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 
 ## sqlite 
 
