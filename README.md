@@ -153,6 +153,7 @@
 
 ## Python 
 
+- [yashgorana/chrome-debloat](https://github.com/yashgorana/chrome-debloat) - Browser policies to debloat Chrome/Chromium browsers
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
 - [dabao1955/kernel_build_action](https://github.com/dabao1955/kernel_build_action) - a action to build kernel automatically[force push warning!]
