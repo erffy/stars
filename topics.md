@@ -51,7 +51,6 @@
 - [mobile](#mobile)
 - [monitoring](#monitoring)
 - [neovim](#neovim)
-- [nextjs](#nextjs)
 - [nodejs](#nodejs)
 - [npm](#npm)
 - [open-source](#open-source)
@@ -140,6 +139,7 @@
 
 ## chrome 
 
+- [yashgorana/chrome-debloat](https://github.com/yashgorana/chrome-debloat) - Browser policies to debloat Chrome/Chromium browsers
 - [victrme/Bonjourr](https://github.com/victrme/Bonjourr) - Minimalist & lightweight startpage inspired by iOS
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 
@@ -373,10 +373,6 @@
 ## neovim 
 
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-
-## nextjs 
-
-- [diced/zipline](https://github.com/diced/zipline) - A ShareX/file upload server that is easy to use, packed with features, and with an easy setup!
 
 ## nodejs 
 
