@@ -31,6 +31,7 @@
 
 ## C 
 
+- [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please use MRs on https://code.videolan.org/videolan/vlc
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 - [xeome/riscv-kernel](https://github.com/xeome/riscv-kernel) - riscv toy kernel
 - [0l3d/mif](https://github.com/0l3d/mif) - Minimal/Modern image format.
