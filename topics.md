@@ -195,6 +195,7 @@
 
 ## docker 
 
+- [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included!
 - [diced/zipline](https://github.com/diced/zipline) - A ShareX/file upload server that is easy to use, packed with features, and with an easy setup!
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
@@ -238,12 +239,15 @@
 
 ## go 
 
+- [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates
 - [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 
 ## golang 
 
+- [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
+- [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates
 - [marcopiovanello/yt-dlp-web-ui](https://github.com/marcopiovanello/yt-dlp-web-ui) - A terrible web ui and RPC server for yt-dlp. Designed to be self-hosted.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [ssut/payload-dumper-go](https://github.com/ssut/payload-dumper-go) - an android OTA payload dumper written in Go
@@ -510,6 +514,7 @@
 
 ## self-hosted 
 
+- [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
 - [marcopiovanello/yt-dlp-web-ui](https://github.com/marcopiovanello/yt-dlp-web-ui) - A terrible web ui and RPC server for yt-dlp. Designed to be self-hosted.
 - [kuvasz-uptime/kuvasz](https://github.com/kuvasz-uptime/kuvasz) - Kuvasz (pronounce as [ˈkuvɒs]) is an open-source uptime and SSL monitoring service, built in Kotlin
 - [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
