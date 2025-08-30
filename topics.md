@@ -62,6 +62,7 @@
 - [productivity](#productivity)
 - [pwa](#pwa)
 - [python](#python)
+- [qt](#qt)
 - [react](#react)
 - [reactjs](#reactjs)
 - [reverse-engineering](#reverse-engineering)
@@ -415,7 +416,6 @@
 - [saivert/pwvucontrol](https://github.com/saivert/pwvucontrol) - Pipewire Volume Control
 - [ErikReider/SwayOSD](https://github.com/ErikReider/SwayOSD) - A GTK based on screen display for keyboard shortcuts like caps-lock and volume
 - [xeome/riscv-kernel](https://github.com/xeome/riscv-kernel) - riscv toy kernel
-- [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [Kernel-SU/ksuinit](https://github.com/Kernel-SU/ksuinit) - 
 - [bouquet2/water](https://github.com/bouquet2/water) - 💧 Simple upgrade tool made for bouquet2 that manages Talos Linux and Kubernetes versions in a declarative manner.
 - [CachyOS/CachyOS-Live-ISO](https://github.com/CachyOS/CachyOS-Live-ISO) - 
@@ -479,6 +479,10 @@
 
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [TheSpeedX/socker](https://github.com/TheSpeedX/socker) - Checks SOCKS Proxy List To find Working Proxies
+
+## qt 
+
+- [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 
 ## react 
 
