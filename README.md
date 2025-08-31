@@ -103,7 +103,6 @@
 
 - [ArcheonOS/liveiso](https://github.com/ArcheonOS/liveiso) - Archeon Live ISO
 - [badmojr/1Hosts](https://github.com/badmojr/1Hosts) - Advanced DNS filter/blocklists for privacy, security, and clean browsing.
-- [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 
 ## Java 
 
@@ -179,6 +178,7 @@
 - [0l3d/ffetch](https://github.com/0l3d/ffetch) - F-Fetch is Fast and Minimal. Written in Rust. It's very simple, designed so you can pick it up and replace it.
 - [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) - A memory safe implementation of sudo and su.
 - [j-hc/zygisk-detach](https://github.com/j-hc/zygisk-detach) - Zygisk module to detach installed apps from Play Store, hooking binder
+- [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
@@ -189,6 +189,7 @@
 
 ## Shell 
 
+- [Antiz96/arch-update](https://github.com/Antiz96/arch-update) - An update notifier & applier for Arch Linux with a systray applet that assists you with important pre / post update tasks.
 - [ArcheonOS/archeoninstall](https://github.com/ArcheonOS/archeoninstall) - Simple archeon installer script written by Bash
 - [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos) - Archlinux Kernel based on different schedulers and some other performance improvements.
 - [CachyOS/CachyOS-Live-ISO](https://github.com/CachyOS/CachyOS-Live-ISO) - 
