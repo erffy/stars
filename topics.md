@@ -143,7 +143,7 @@
 
 ## chrome 
 
-- [yashgorana/chrome-debloat](https://github.com/yashgorana/chrome-debloat) - Browser policies to debloat Chrome/Chromium browsers
+- [yashgorana/chrome-debloat](https://github.com/yashgorana/chrome-debloat) - Debloat your Chrome, Brave, Edge, Chromium browsing experience
 - [victrme/Bonjourr](https://github.com/victrme/Bonjourr) - Minimalist & lightweight startpage inspired by iOS
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 
