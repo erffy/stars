@@ -192,7 +192,7 @@
 
 ## discord 
 
-- [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod
+- [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord modification
 - [CapnKitten/Material-Discord](https://github.com/CapnKitten/Material-Discord) - Material design theme for Discord
 
 ## docker 
@@ -478,6 +478,7 @@
 
 ## python 
 
+- [giantpinkrobots/varia](https://github.com/giantpinkrobots/varia) - Download manager that supports regular downloads, torrents and videos
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [TheSpeedX/socker](https://github.com/TheSpeedX/socker) - Checks SOCKS Proxy List To find Working Proxies
 
