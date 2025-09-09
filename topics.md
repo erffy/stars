@@ -58,6 +58,7 @@
 - [openai](#openai)
 - [opengl](#opengl)
 - [others](#others)
+- [package-manager](#package-manager)
 - [privacy](#privacy)
 - [productivity](#productivity)
 - [pwa](#pwa)
@@ -88,6 +89,7 @@
 
 ## android 
 
+- [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
 - [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced
 - [sunilpaulmathew/De-Bloater](https://github.com/sunilpaulmathew/De-Bloater) - An application using the power of Magisk to debloat unwanted system apps!
 - [badmojr/1Hosts](https://github.com/badmojr/1Hosts) - Advanced DNS filter/blocklists for privacy, security, and clean browsing.
@@ -361,6 +363,7 @@
 
 ## material-design 
 
+- [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
 - [InioX/matugen](https://github.com/InioX/matugen) - A material you color generation tool
 - [Rve27/RvKernel-Manager](https://github.com/Rve27/RvKernel-Manager) - Material 3 Expressive Design Kernel Manager for Android 12+
 - [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android
@@ -412,6 +415,8 @@
 
 ## others 
 
+- [remittor/zapret-openwrt](https://github.com/remittor/zapret-openwrt) - OpenWrt packages of https://github.com/bol-van/zapret
+- [hamphh/dockge](https://github.com/hamphh/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [systemd/zram-generator](https://github.com/systemd/zram-generator) - Systemd unit generator for zram devices
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 - [saivert/pwvucontrol](https://github.com/saivert/pwvucontrol) - Pipewire Volume Control
@@ -457,6 +462,10 @@
 - [kreatolinux/kpkg-repo](https://github.com/kreatolinux/kpkg-repo) - Official repository for Kreato Linux.
 - [AliasIO/demodal](https://github.com/AliasIO/demodal) - Demodal is a browser extension that automatically removes content blocking modals including paywalls, discount offers, promts to sign up or enter your email address and more.
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
+
+## package-manager 
+
+- [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
 
 ## privacy 
 
