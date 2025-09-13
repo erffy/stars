@@ -16,6 +16,7 @@
 - [JavaScript](#javascript)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
+- [Others](#others)
 - [PHP](#php)
 - [PowerShell](#powershell)
 - [Python](#python)
@@ -146,6 +147,10 @@
 ## Lua 
 
 - [lite-xl/lite-xl](https://github.com/lite-xl/lite-xl) - A lightweight text editor written in Lua
+
+## Others 
+
+- [DesignLipsx/WinUI-3-Apps-List](https://github.com/DesignLipsx/WinUI-3-Apps-List) - A curated collection of over 420+ apps that embrace the WinUI 3 Design
 
 ## PHP 
 
