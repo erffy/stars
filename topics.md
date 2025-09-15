@@ -444,6 +444,8 @@
 
 ## others 
 
+- [ntdevlabs/nano11](https://github.com/ntdevlabs/nano11) - Script to build possibly the most trimmed-down Windows 11 experience.
+- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
 - [remittor/zapret-openwrt](https://github.com/remittor/zapret-openwrt) - OpenWrt packages of https://github.com/bol-van/zapret
 - [hamphh/dockge](https://github.com/hamphh/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [systemd/zram-generator](https://github.com/systemd/zram-generator) - Systemd unit generator for zram devices
