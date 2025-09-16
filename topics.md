@@ -52,6 +52,7 @@
 - [macos](#macos)
 - [markdown](#markdown)
 - [material-design](#material-design)
+- [microsoft](#microsoft)
 - [minecraft](#minecraft)
 - [mobile](#mobile)
 - [monitoring](#monitoring)
@@ -232,6 +233,7 @@
 
 ## electron 
 
+- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) - Unofficial Microsoft Teams for Linux client
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 
 ## firebase 
@@ -346,6 +348,7 @@
 
 ## linux 
 
+- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) - Unofficial Microsoft Teams for Linux client
 - [ArcheonOS/archeoninstall](https://github.com/ArcheonOS/archeoninstall) - Simple archeon installer script written by Bash
 - [ArcheonOS/liveiso](https://github.com/ArcheonOS/liveiso) - Archeon Live ISO
 - [InioX/matugen](https://github.com/InioX/matugen) - A material you color generation tool
@@ -392,6 +395,10 @@
 - [InioX/matugen](https://github.com/InioX/matugen) - A material you color generation tool
 - [Rve27/RvKernel-Manager](https://github.com/Rve27/RvKernel-Manager) - Material 3 Expressive Design Kernel Manager for Android 12+
 - [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android
+
+## microsoft 
+
+- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) - Unofficial Microsoft Teams for Linux client
 
 ## minecraft 
 
