@@ -119,6 +119,7 @@
 
 ## JavaScript 
 
+- [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) - Unofficial Microsoft Teams for Linux client
 - [remittor/zapret-openwrt](https://github.com/remittor/zapret-openwrt) - OpenWrt packages of https://github.com/bol-van/zapret
 - [bindhosts/bindhosts](https://github.com/bindhosts/bindhosts) - Systemless hosts for APatch / KernelSU / Magisk
 - [erffy/chromium-web-store](https://github.com/erffy/chromium-web-store) - Enables installation of Chrome Web Store extensions in UnGoogled Chromium. Also provides semi-automatic extension updates.
