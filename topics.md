@@ -20,6 +20,7 @@
 - [compiler](#compiler)
 - [cpp](#cpp)
 - [csharp](#csharp)
+- [css](#css)
 - [deno](#deno)
 - [design](#design)
 - [developer-tools](#developer-tools)
@@ -197,6 +198,10 @@
 
 - [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
 
+## css 
+
+- [edelvarden/material-fox-updated](https://github.com/edelvarden/material-fox-updated) - 🦊 Firefox user CSS theme looks similar to Chrome
+
 ## deno 
 
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
@@ -248,6 +253,7 @@
 
 ## firefox 
 
+- [edelvarden/material-fox-updated](https://github.com/edelvarden/material-fox-updated) - 🦊 Firefox user CSS theme looks similar to Chrome
 - [victrme/Bonjourr](https://github.com/victrme/Bonjourr) - Minimalist & lightweight startpage inspired by iOS
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
@@ -397,6 +403,7 @@
 
 ## material-design 
 
+- [edelvarden/material-fox-updated](https://github.com/edelvarden/material-fox-updated) - 🦊 Firefox user CSS theme looks similar to Chrome
 - [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
 - [InioX/matugen](https://github.com/InioX/matugen) - A material you color generation tool
 - [Rve27/RvKernel-Manager](https://github.com/Rve27/RvKernel-Manager) - Material 3 Expressive Design Kernel Manager for Android 12+
