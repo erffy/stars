@@ -95,6 +95,7 @@
 - [web](#web)
 - [webapp](#webapp)
 - [windows](#windows)
+- [youtube](#youtube)
 - [zig](#zig)
 
 ## ai 
@@ -232,6 +233,7 @@
 
 ## docker 
 
+- [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included!
 - [diced/zipline](https://github.com/diced/zipline) - A ShareX/file upload server that is easy to use, packed with features, and with an easy setup!
@@ -300,6 +302,7 @@
 
 ## hacktoberfest 
 
+- [mepley1/disk-usage-waybar](https://github.com/mepley1/disk-usage-waybar) - A storage monitoring Waybar module. Summarizes disk usage for each mounted fs.
 - [flyimg/flyimg](https://github.com/flyimg/flyimg) - Dockerized application that resizes and crops images on the fly, delivering optimized images in formats such as AVIF, WebP, MozJPEG, or PNG using ImageMagick, with an efficient caching system.
 - [orhun/rustypaste](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service.
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
@@ -360,6 +363,7 @@
 
 ## linux 
 
+- [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) - Unofficial Microsoft Teams for Linux client
 - [ArcheonOS/archeoninstall](https://github.com/ArcheonOS/archeoninstall) - Simple archeon installer script written by Bash
 - [ArcheonOS/liveiso](https://github.com/ArcheonOS/liveiso) - Archeon Live ISO
@@ -670,6 +674,7 @@
 
 ## windows 
 
+- [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [InioX/matugen](https://github.com/InioX/matugen) - A material you color generation tool
 - [badmojr/1Hosts](https://github.com/badmojr/1Hosts) - Advanced DNS filter/blocklists for privacy, security, and clean browsing.
 - [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
@@ -681,8 +686,15 @@
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 
+## youtube 
+
+- [giantpinkrobots/varia](https://github.com/giantpinkrobots/varia) - Download manager that supports regular downloads, torrents and videos
+- [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
+- [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
+
 ## zig 
 
+- [mepley1/disk-usage-waybar](https://github.com/mepley1/disk-usage-waybar) - A storage monitoring Waybar module. Summarizes disk usage for each mounted fs.
 - [karlseguin/websocket.zig](https://github.com/karlseguin/websocket.zig) - A websocket implementation for zig
 - [erffy/zig-waybar-contrib](https://github.com/erffy/zig-waybar-contrib) - ✨ Lightweight Waybar modules built with Zig
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
