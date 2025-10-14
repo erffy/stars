@@ -104,6 +104,7 @@
 
 ## android 
 
+- [lihenggui/blocker](https://github.com/lihenggui/blocker) - Utilize an integrated firewall to manage application components.
 - [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
 - [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced
 - [sunilpaulmathew/De-Bloater](https://github.com/sunilpaulmathew/De-Bloater) - An application using the power of Magisk to debloat unwanted system apps!
@@ -298,6 +299,7 @@
 
 ## google 
 
+- [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
 
 ## hacktoberfest 
@@ -307,7 +309,6 @@
 - [orhun/rustypaste](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service.
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically downloads selected version at startup
-- [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
@@ -342,6 +343,7 @@
 
 ## kotlin 
 
+- [lihenggui/blocker](https://github.com/lihenggui/blocker) - Utilize an integrated firewall to manage application components.
 - [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced
 - [kuvasz-uptime/kuvasz](https://github.com/kuvasz-uptime/kuvasz) - Kuvasz (pronounce as [ˈkuvɒs]) is an open-source uptime and SSL monitoring service, with multiple notification channels, status pages, IAC support via YAML, Prometheus integration, a complete REST API
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
@@ -469,8 +471,8 @@
 
 ## others 
 
+- [Zigistry/Zigistry](https://github.com/Zigistry/Zigistry) - A place where you can find all the libraries that suit your Zig lang needs. ⭐️ Please star to support this work!
 - [xeome/portfolio](https://github.com/xeome/portfolio) - 
-- [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
 - [ntdevlabs/nano11](https://github.com/ntdevlabs/nano11) - Script to build possibly the most trimmed-down Windows 11 experience.
 - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
@@ -528,7 +530,9 @@
 
 ## privacy 
 
+- [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
 - [badmojr/1Hosts](https://github.com/badmojr/1Hosts) - Advanced DNS filter/blocklists for privacy, security, and clean browsing.
+- [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 - [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted cloud for photos, videos and 2FA secrets.
