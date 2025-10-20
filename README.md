@@ -244,7 +244,6 @@
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [victrme/Bonjourr](https://github.com/victrme/Bonjourr) - Minimalist & lightweight startpage inspired by iOS
 - [slopjs/slopjs](https://github.com/slopjs/slopjs) - 
-- [erffylabs/sentinel](https://github.com/erffylabs/sentinel) - Sentinel is an open-source Discord bot offering powerful moderation, utility, and economy features
 - [MegalithOfficial/Chatalia](https://github.com/MegalithOfficial/Chatalia) - A modern, local-first AI chat interface built with Tauri, React, and Rust. Secure, private, and supports multiple LLM providers. 🚀
 - [mt190502/firerss](https://github.com/mt190502/firerss) - A RSS Scraper for Browsers
 - [mt190502/usmanagabot](https://github.com/mt190502/usmanagabot) - 
