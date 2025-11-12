@@ -176,7 +176,7 @@
 
 - [enufak/enufak](https://github.com/enufak/enufak) - A different dimension for freelancing
 - [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
-- [giantpinkrobots/Varia](https://github.com/giantpinkrobots/Varia) - Download manager that supports regular downloads, torrents and videos
+- [giantpinkrobots/varia](https://github.com/giantpinkrobots/varia) - Download manager that supports regular downloads, torrents and videos
 - [yashgorana/chrome-debloat](https://github.com/yashgorana/chrome-debloat) - Debloat your Chrome, Brave, Edge, Chromium browsing experience
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
@@ -217,7 +217,6 @@
 
 - [Antiz96/arch-update](https://github.com/Antiz96/arch-update) - An update notifier & applier for Arch Linux with a systray applet that assists you with important pre / post update tasks.
 - [ArcheonOS/archeoninstall](https://github.com/ArcheonOS/archeoninstall) - Simple archeon installer script written by Bash
-- [ArcheonOS/liveiso](https://github.com/ArcheonOS/liveiso) - Archeon Live ISO
 - [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos) - Archlinux Kernel based on different schedulers and some other performance improvements.
 - [CachyOS/CachyOS-Live-ISO](https://github.com/CachyOS/CachyOS-Live-ISO) - 
 - [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module) - Extensive ReVanced builder. Builds both modules and APKs. Updated daily.
