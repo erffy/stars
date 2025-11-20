@@ -110,6 +110,7 @@
 
 ## Java 
 
+- [GhostSHAURMA/BetterCopperGolem](https://github.com/GhostSHAURMA/BetterCopperGolem) - A small mods that tweaks vanilla golem AI
 - [pcal43/quicksort](https://github.com/pcal43/quicksort) - Minecraft mod.  Low-effort item sorting to keep your workshop organized.
 - [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
 - [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced
@@ -123,6 +124,7 @@
 
 ## JavaScript 
 
+- [atom-community/atom](https://github.com/atom-community/atom) - :atom: Community build of the hackable text editor
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
 - [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) - Unofficial Microsoft Teams for Linux client
 - [remittor/zapret-openwrt](https://github.com/remittor/zapret-openwrt) - OpenWrt packages of https://github.com/bol-van/zapret
