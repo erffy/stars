@@ -113,6 +113,7 @@
 
 ## android 
 
+- [protonpass/android-pass](https://github.com/protonpass/android-pass) - Android code for the Proton Pass application
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
 - [lihenggui/blocker](https://github.com/lihenggui/blocker) - Utilize an integrated firewall to manage application components.
 - [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
