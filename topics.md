@@ -549,6 +549,7 @@
 
 ## others 
 
+- [Ylarod/ddk](https://github.com/Ylarod/ddk) - 内核驱动开发工具包 (Kernel Driver Development Kit)
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [Vencord/Vesktop](https://github.com/Vencord/Vesktop) - Vesktop is a custom Discord App aiming to give you better performance and improve linux support
 - [gloeyisk/universal-gms-doze](https://github.com/gloeyisk/universal-gms-doze) - Patches Google Play services app and certain processes/services to be able to use battery optimization
