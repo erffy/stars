@@ -99,6 +99,7 @@
 - [telegram](#telegram)
 - [terminal](#terminal)
 - [termux](#termux)
+- [tui](#tui)
 - [typescript](#typescript)
 - [ui](#ui)
 - [vim](#vim)
@@ -738,6 +739,12 @@
 ## termux 
 
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
+
+## tui 
+
+- [ArcheonOS/archeoninstall](https://github.com/ArcheonOS/archeoninstall) - Simple archeon installer script written by Bash
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+- [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 
 ## typescript 
 
