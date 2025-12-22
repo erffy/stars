@@ -272,7 +272,7 @@
 - [slopjs/slopjs](https://github.com/slopjs/slopjs) - 
 - [MegalithOfficial/Chatalia](https://github.com/MegalithOfficial/Chatalia) - A modern, local-first AI chat interface built with Tauri, React, and Rust. Secure, private, and supports multiple LLM providers. 🚀
 - [mt190502/firerss](https://github.com/mt190502/firerss) - A RSS Scraper for Browsers
-- [mt190502/usmanagabot](https://github.com/mt190502/usmanagabot) - 
+- [LibreTurks/usmanagabot](https://github.com/LibreTurks/usmanagabot) - 
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord modification
 - [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
