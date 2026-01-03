@@ -555,7 +555,7 @@
 
 - [wmww/gtk4-layer-shell](https://github.com/wmww/gtk4-layer-shell) - A library to create panels and other desktop components for Wayland using the Layer Shell protocol and GTK4
 - [Tools-cx-app/meta-magic_mount](https://github.com/Tools-cx-app/meta-magic_mount) - Magic Mount Metamodule
-- [YuzakiKokuban/meta-hybrid_mount](https://github.com/YuzakiKokuban/meta-hybrid_mount) - Hybrid Mount Metamodule
+- [Hybrid-Mount/meta-hybrid_mount](https://github.com/Hybrid-Mount/meta-hybrid_mount) - Hybrid Mount Metamodule
 - [Numbersf/MakeFontsGreatAgain](https://github.com/Numbersf/MakeFontsGreatAgain) - Revokes GMS's Font Provider to force GApps and other Apps to use system-custom fonts.Support the latest Unicode.
 - [spacealtctrl/microg_installer_revived_again](https://github.com/spacealtctrl/microg_installer_revived_again) - Install microG GmsCore, GsfProxy, FakeStore/Play Store and MapsV1 to /system/
 - [Ylarod/ddk](https://github.com/Ylarod/ddk) - 内核驱动开发工具包 (Kernel Driver Development Kit)
@@ -611,7 +611,6 @@
 - [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
 - [uBlockOrigin/uBOL-home](https://github.com/uBlockOrigin/uBOL-home) - uBO Lite home (MV3)
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-- [brave/adblock-rust](https://github.com/brave/adblock-rust) - Brave's Rust-based adblock engine
 - [kreatolinux/kpkg-repo](https://github.com/kreatolinux/kpkg-repo) - Official repository for Kreato Linux.
 - [AliasIO/demodal](https://github.com/AliasIO/demodal) - Demodal is a browser extension that automatically removes content blocking modals including paywalls, discount offers, promts to sign up or enter your email address and more.
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
@@ -815,6 +814,7 @@
 
 ## zig 
 
+- [hendriknielaender/zvm](https://github.com/hendriknielaender/zvm) - ⚡ Fast and simple zig version manager (zvm)
 - [rcalixte/libqt6zig](https://github.com/rcalixte/libqt6zig) - Qt 6 for Zig
 - [mepley1/disk-usage-waybar](https://github.com/mepley1/disk-usage-waybar) - A storage monitoring Waybar module. Summarizes disk usage for each mounted fs.
 - [karlseguin/websocket.zig](https://github.com/karlseguin/websocket.zig) - A websocket implementation for zig
