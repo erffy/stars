@@ -558,6 +558,7 @@
 
 ## others 
 
+- [theovilardo/PixelPlayer](https://github.com/theovilardo/PixelPlayer) - 
 - [bol-van/zapret2](https://github.com/bol-van/zapret2) - anti-dpi software
 - [sched-ext/scx](https://github.com/sched-ext/scx) - sched_ext schedulers and tools
 - [mitchellh/zig-overlay](https://github.com/mitchellh/zig-overlay) - Nix flake for the Zig compiler.
