@@ -103,6 +103,7 @@
 - [tui](#tui)
 - [typescript](#typescript)
 - [ui](#ui)
+- [video](#video)
 - [vim](#vim)
 - [vue](#vue)
 - [vuejs](#vuejs)
@@ -427,6 +428,7 @@
 ## linux 
 
 - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
+- [bol-van/zapret2](https://github.com/bol-van/zapret2) - anti-dpi software
 - [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
 - [fwupd/fwupd](https://github.com/fwupd/fwupd) - A system daemon to allow session software to update firmware
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
@@ -561,7 +563,6 @@
 ## others 
 
 - [theovilardo/PixelPlayer](https://github.com/theovilardo/PixelPlayer) - 
-- [bol-van/zapret2](https://github.com/bol-van/zapret2) - anti-dpi software
 - [sched-ext/scx](https://github.com/sched-ext/scx) - sched_ext schedulers and tools
 - [mitchellh/zig-overlay](https://github.com/mitchellh/zig-overlay) - Nix flake for the Zig compiler.
 - [xddxdd/nix-cachyos-kernel](https://github.com/xddxdd/nix-cachyos-kernel) - CachyOS kernel for NixOS
@@ -779,6 +780,10 @@
 
 - [DesignLipsx/WinUI-3-Apps-List](https://github.com/DesignLipsx/WinUI-3-Apps-List) - A curated collection of over 420+ apps that embrace the WinUI 3 Design
 
+## video 
+
+- [giantpinkrobots/varia](https://github.com/giantpinkrobots/varia) - Download manager that supports regular downloads, torrents and videos
+
 ## vim 
 
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -804,6 +809,7 @@
 
 ## windows 
 
+- [bol-van/zapret2](https://github.com/bol-van/zapret2) - anti-dpi software
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [InioX/matugen](https://github.com/InioX/matugen) - A material you color generation tool
