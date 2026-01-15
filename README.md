@@ -54,7 +54,7 @@
 
 ## C# # 
 
-- [0x5bfa/RegistryEditor](https://github.com/0x5bfa/RegistryEditor) - A refreshed Regedit.exe with WinUI for Windows.
+- [0x5bfa/RegistryEditor](https://github.com/0x5bfa/RegistryEditor) - Modernize your regedit with WinUI.
 - [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
 - [timschneeb/GalaxyBudsClient](https://github.com/timschneeb/GalaxyBudsClient) - Unofficial Galaxy Buds Manager for Windows, macOS, Linux, and Android
 
