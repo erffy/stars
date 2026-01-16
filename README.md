@@ -138,7 +138,6 @@
 - [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) - Unofficial Microsoft Teams for Linux client
 - [remittor/zapret-openwrt](https://github.com/remittor/zapret-openwrt) - OpenWrt packages of https://github.com/bol-van/zapret
 - [bindhosts/bindhosts](https://github.com/bindhosts/bindhosts) - Systemless hosts for APatch / KernelSU / Magisk
-- [erffy/chromium-web-store](https://github.com/erffy/chromium-web-store) - Enables installation of Chrome Web Store extensions in UnGoogled Chromium. Also provides semi-automatic extension updates.
 - [NeverDecaf/chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - Allows adding extensions from chrome web store on ungoogled-chromium. Also adds semi-automatic extension updating.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [chisewaguri/systemapp_nuker](https://github.com/chisewaguri/systemapp_nuker) - A KernelSU module to debloat system apps with WebUI Interface
