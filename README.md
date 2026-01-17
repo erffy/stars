@@ -10,6 +10,7 @@
 - [C++](#c++)
 - [CSS](#css)
 - [Dart](#dart)
+- [Fluent](#fluent)
 - [Go](#go)
 - [HTML](#html)
 - [Java](#java)
@@ -90,6 +91,10 @@
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [ente-io/ente](https://github.com/ente-io/ente) - 🔥 End-to-end encrypted cloud for everything.
 
+## Fluent 
+
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
+
 ## Go 
 
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
@@ -119,6 +124,7 @@
 
 ## Java 
 
+- [Kaupenjoe/Hytale-Example-Plugin](https://github.com/Kaupenjoe/Hytale-Example-Plugin) - A template for Hytale java plugins. Highly WIP, things might break! 🙏🏻
 - [GhostSHAURMA/BetterCopperGolem](https://github.com/GhostSHAURMA/BetterCopperGolem) - A small mods that tweaks vanilla golem AI
 - [pcal43/quicksort](https://github.com/pcal43/quicksort) - Minecraft mod.  Low-effort item sorting to keep your workshop organized.
 - [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
@@ -141,7 +147,6 @@
 - [NeverDecaf/chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - Allows adding extensions from chrome web store on ungoogled-chromium. Also adds semi-automatic extension updating.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [chisewaguri/systemapp_nuker](https://github.com/chisewaguri/systemapp_nuker) - A KernelSU module to debloat system apps with WebUI Interface
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [uBlockOrigin/uBOL-home](https://github.com/uBlockOrigin/uBOL-home) - uBO Lite home (MV3)
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
@@ -262,6 +267,7 @@
 
 ## TypeScript 
 
+- [mxrcochxvez/hytale-mod-initializer](https://github.com/mxrcochxvez/hytale-mod-initializer) - 
 - [Tools-cx-app/meta-magic_mount](https://github.com/Tools-cx-app/meta-magic_mount) - Magic Mount Metamodule
 - [Vencord/Vesktop](https://github.com/Vencord/Vesktop) - Vesktop is a custom Discord App aiming to give you better performance and improve linux support
 - [jordan-dalby/ByteStash](https://github.com/jordan-dalby/ByteStash) - A code snippet storage solution written in React & node.js
