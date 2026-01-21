@@ -562,6 +562,7 @@
 
 ## others 
 
+- [thedjchi/Shizuku](https://github.com/thedjchi/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 - [wilsonzlin/fastrender](https://github.com/wilsonzlin/fastrender) - Experimental new browser engine
 - [mxrcochxvez/hytale-mod-initializer](https://github.com/mxrcochxvez/hytale-mod-initializer) - 
 - [Kaupenjoe/Hytale-Example-Plugin](https://github.com/Kaupenjoe/Hytale-Example-Plugin) - A template for Hytale java plugins. Highly WIP, things might break! 🙏🏻
