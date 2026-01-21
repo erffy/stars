@@ -151,6 +151,7 @@
 
 ## Kotlin 
 
+- [thedjchi/Shizuku](https://github.com/thedjchi/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 - [theovilardo/PixelPlayer](https://github.com/theovilardo/PixelPlayer) - 
 - [protonpass/android-pass](https://github.com/protonpass/android-pass) - Android code for the Proton Pass application
 - [lihenggui/blocker](https://github.com/lihenggui/blocker) - Utilize an integrated firewall to manage application components.
