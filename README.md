@@ -151,6 +151,7 @@
 
 ## Kotlin 
 
+- [koiverse/ArchiveTune](https://github.com/koiverse/ArchiveTune) - The cutest Material 3 Expressive music streaming client for Android, built for performance and extensibility.
 - [thedjchi/Shizuku](https://github.com/thedjchi/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 - [theovilardo/PixelPlayer](https://github.com/theovilardo/PixelPlayer) - 
 - [protonpass/android-pass](https://github.com/protonpass/android-pass) - Android code for the Proton Pass application
@@ -266,6 +267,7 @@
 
 ## TypeScript 
 
+- [LettuceAI/mobile-app](https://github.com/LettuceAI/mobile-app) - Official mobile app for LettuceAI.
 - [mxrcochxvez/hytale-mod-initializer](https://github.com/mxrcochxvez/hytale-mod-initializer) - 
 - [Tools-cx-app/meta-magic_mount](https://github.com/Tools-cx-app/meta-magic_mount) - Magic Mount Metamodule
 - [Vencord/Vesktop](https://github.com/Vencord/Vesktop) - Vesktop is a custom Discord App aiming to give you better performance and improve linux support
