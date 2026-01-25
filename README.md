@@ -180,6 +180,7 @@
 
 ## Others 
 
+- [erffy/zig-sysinfo](https://github.com/erffy/zig-sysinfo) - A library that retrieves system information
 - [DesignLipsx/WinUI-3-Apps-List](https://github.com/DesignLipsx/WinUI-3-Apps-List) - A curated collection of over 420+ apps that embrace the WinUI 3 Design
 - [erffy/zig-waybar-contrib](https://github.com/erffy/zig-waybar-contrib) - ⚡ High-performance Waybar modules written in Zig for efficient system monitoring
 
