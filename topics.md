@@ -6,6 +6,7 @@
 ## Contents
 
 - [ai](#ai)
+- [analytics](#analytics)
 - [android](#android)
 - [archlinux](#archlinux)
 - [atom](#atom)
@@ -59,6 +60,7 @@
 - [lua](#lua)
 - [mac](#mac)
 - [macos](#macos)
+- [malware](#malware)
 - [markdown](#markdown)
 - [material-design](#material-design)
 - [mcp](#mcp)
@@ -69,6 +71,7 @@
 - [monitoring](#monitoring)
 - [music](#music)
 - [mysql](#mysql)
+- [nativescript](#nativescript)
 - [neovim](#neovim)
 - [nextjs](#nextjs)
 - [no-code](#no-code)
@@ -87,6 +90,7 @@
 - [python](#python)
 - [qt](#qt)
 - [react](#react)
+- [react-native](#react-native)
 - [reactjs](#reactjs)
 - [reverse-engineering](#reverse-engineering)
 - [rust](#rust)
@@ -96,6 +100,7 @@
 - [shell](#shell)
 - [sqlite](#sqlite)
 - [svelte](#svelte)
+- [swift](#swift)
 - [tailwindcss](#tailwindcss)
 - [telegram](#telegram)
 - [terminal](#terminal)
@@ -118,8 +123,13 @@
 - [LettuceAI/mobile-app](https://github.com/LettuceAI/mobile-app) - Official mobile app for LettuceAI.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
+## analytics 
+
+- [aptabase/aptabase](https://github.com/aptabase/aptabase) - ✨ Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps
+
 ## android 
 
+- [aptabase/aptabase](https://github.com/aptabase/aptabase) - ✨ Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
 - [protonpass/android-pass](https://github.com/protonpass/android-pass) - Android code for the Proton Pass application
@@ -154,7 +164,6 @@
 ## archlinux 
 
 - [Antiz96/arch-update](https://github.com/Antiz96/arch-update) - An update notifier & applier for Arch Linux with a systray applet that assists you with important pre / post update tasks.
-- [ArcheonOS/archeoninstall](https://github.com/ArcheonOS/archeoninstall) - Simple archeon installer script written by Bash
 - [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos) - Archlinux Kernel based on different schedulers and some other performance improvements.
 - [CachyOS/New-Cli-Installer](https://github.com/CachyOS/New-Cli-Installer) - CachyOS CLI Installer
 - [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
@@ -184,7 +193,6 @@
 
 ## bash 
 
-- [ArcheonOS/archeoninstall](https://github.com/ArcheonOS/archeoninstall) - Simple archeon installer script written by Bash
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 
 ## c 
@@ -297,6 +305,7 @@
 
 ## electron 
 
+- [aptabase/aptabase](https://github.com/aptabase/aptabase) - ✨ Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps
 - [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) - Unofficial Microsoft Teams for Linux client
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 
@@ -315,6 +324,7 @@
 
 ## flutter 
 
+- [aptabase/aptabase](https://github.com/aptabase/aptabase) - ✨ Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
@@ -333,6 +343,7 @@
 
 ## git 
 
+- [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 
 ## github 
@@ -366,6 +377,9 @@
 
 ## hacktoberfest 
 
+- [orhun/kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
+- [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
+- [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [jordan-dalby/ByteStash](https://github.com/jordan-dalby/ByteStash) - A code snippet storage solution written in React & node.js
 - [atom-community/atom](https://github.com/atom-community/atom) - :atom: Community build of the hackable text editor
 - [mepley1/disk-usage-waybar](https://github.com/mepley1/disk-usage-waybar) - A storage monitoring Waybar module. Summarizes disk usage for each mounted fs.
@@ -389,6 +403,7 @@
 
 ## ios 
 
+- [aptabase/aptabase](https://github.com/aptabase/aptabase) - ✨ Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps
 - [victrme/Bonjourr](https://github.com/victrme/Bonjourr) - Minimalist & lightweight startpage inspired by iOS
 - [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
 
@@ -430,6 +445,8 @@
 
 ## linux 
 
+- [orhun/kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
+- [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil) - Chris Titus Tech's Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.
 - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
 - [bol-van/zapret2](https://github.com/bol-van/zapret2) - anti-dpi software
 - [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
@@ -437,7 +454,6 @@
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) - Unofficial Microsoft Teams for Linux client
-- [ArcheonOS/archeoninstall](https://github.com/ArcheonOS/archeoninstall) - Simple archeon installer script written by Bash
 - [InioX/matugen](https://github.com/InioX/matugen) - A material you color generation tool
 - [ErikReider/SwayNotificationCenter](https://github.com/ErikReider/SwayNotificationCenter) - A simple GTK based notification daemon for any Wayland compositor
 - [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
@@ -474,6 +490,12 @@
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 
+## malware 
+
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
+- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
+- [badmojr/1Hosts](https://github.com/badmojr/1Hosts) - Advanced DNS filter/blocklists for privacy, security, and clean browsing.
+
 ## markdown 
 
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
@@ -483,7 +505,7 @@
 - [edelvarden/material-fox-updated](https://github.com/edelvarden/material-fox-updated) - 🦊 Firefox user CSS theme looks similar to Chrome
 - [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
 - [InioX/matugen](https://github.com/InioX/matugen) - A material you color generation tool
-- [Rve27/RvKernel-Manager](https://github.com/Rve27/RvKernel-Manager) - A modern Kernel Manager with Material 3 Expressive Design. Crafted to seamlessly control, tune, and manage every aspect of RvKernel.
+- [Rve27/RvKernel-Manager](https://github.com/Rve27/RvKernel-Manager) - Android Kernel Manager with Material 3 Expressive Design
 - [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android
 
 ## mcp 
@@ -511,6 +533,7 @@
 
 ## monitoring 
 
+- [orhun/kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included!
 - [kuvasz-uptime/kuvasz](https://github.com/kuvasz-uptime/kuvasz) - Kuvasz (pronounce as [ˈkuvɒs]) is an open-source uptime and SSL monitoring service, with multiple notification channels, status pages, IAC support via YAML, Prometheus integration, a complete REST API
@@ -526,6 +549,10 @@
 ## mysql 
 
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
+
+## nativescript 
+
+- [aptabase/aptabase](https://github.com/aptabase/aptabase) - ✨ Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps
 
 ## neovim 
 
@@ -566,6 +593,9 @@
 
 ## others 
 
+- [MegalithOfficial/Zinc](https://github.com/MegalithOfficial/Zinc) - Zig toolchain management and ZLS integration for Zed, inspired by vscode-zig.
+- [DreamMaoMao/mangowc](https://github.com/DreamMaoMao/mangowc) - wayland compositor base wlroots and scenefx(dwm but wayland)
+- [Equicord/Equicord](https://github.com/Equicord/Equicord) - The other cutest Discord client mod
 - [thedjchi/Shizuku](https://github.com/thedjchi/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 - [wilsonzlin/fastrender](https://github.com/wilsonzlin/fastrender) - Experimental new browser engine
 - [mxrcochxvez/hytale-mod-initializer](https://github.com/mxrcochxvez/hytale-mod-initializer) - 
@@ -645,6 +675,8 @@
 
 ## privacy 
 
+- [aptabase/aptabase](https://github.com/aptabase/aptabase) - ✨ Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
@@ -691,6 +723,10 @@
 - [MegalithOfficial/Chatalia](https://github.com/MegalithOfficial/Chatalia) - A modern, local-first AI chat interface built with Tauri, React, and Rust. Secure, private, and supports multiple LLM providers. 🚀
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
+## react-native 
+
+- [aptabase/aptabase](https://github.com/aptabase/aptabase) - ✨ Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps
+
 ## reactjs 
 
 - [diced/zipline](https://github.com/diced/zipline) - A ShareX/file upload server that is easy to use, packed with features, and with an easy setup!
@@ -702,6 +738,7 @@
 
 ## rust 
 
+- [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [orhun/rustypaste](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service.
@@ -722,6 +759,7 @@
 
 ## self-hosted 
 
+- [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
@@ -750,8 +788,13 @@
 
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
 
+## swift 
+
+- [aptabase/aptabase](https://github.com/aptabase/aptabase) - ✨ Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps
+
 ## tailwindcss 
 
+- [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [AkberJag/portfolio-template](https://github.com/AkberJag/portfolio-template) - A fully customizable portfolio website template built using Vue.js and Tailwind CSS.
 
 ## telegram 
@@ -771,12 +814,13 @@
 
 ## tui 
 
-- [ArcheonOS/archeoninstall](https://github.com/ArcheonOS/archeoninstall) - Simple archeon installer script written by Bash
+- [orhun/kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 
 ## typescript 
 
+- [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -840,6 +884,7 @@
 
 ## zig 
 
+- [erffy/zix](https://github.com/erffy/zix) - A fast, lightweight, and powerful Zig version manager.
 - [erffy/zig-sysinfo](https://github.com/erffy/zig-sysinfo) - A library that retrieves system information
 - [hendriknielaender/zvm](https://github.com/hendriknielaender/zvm) - ⚡ Fast and simple zig version manager (zvm)
 - [rcalixte/libqt6zig](https://github.com/rcalixte/libqt6zig) - Qt 6 for Zig
