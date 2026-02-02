@@ -30,6 +30,7 @@
 - [Text](#text)
 - [TypeScript](#typescript)
 - [Vala](#vala)
+- [Visual Basic 6.0](#visual-basic-6.0)
 - [Vue](#vue)
 - [Zig](#zig)
 
@@ -306,6 +307,10 @@
 ## Vala 
 
 - [ErikReider/SwayNotificationCenter](https://github.com/ErikReider/SwayNotificationCenter) - A simple GTK based notification daemon for any Wayland compositor
+
+## Visual Basic 6.0 
+
+- [fafalone/RunAsTrustedInstaller](https://github.com/fafalone/RunAsTrustedInstaller) - Run a program as TrustedInstaller (SYSTEM)
 
 ## Vue 
 
