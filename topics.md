@@ -95,6 +95,7 @@
 - [reverse-engineering](#reverse-engineering)
 - [rust](#rust)
 - [security](#security)
+- [security-tools](#security-tools)
 - [self-hosted](#self-hosted)
 - [server](#server)
 - [shell](#shell)
@@ -757,6 +758,10 @@
 - [badmojr/1Hosts](https://github.com/badmojr/1Hosts) - Advanced DNS filter/blocklists for privacy, security, and clean browsing.
 - [ionuttbara/windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover) - A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.
 
+## security-tools 
+
+- [fafalone/RunAsTrustedInstaller](https://github.com/fafalone/RunAsTrustedInstaller) - Run a program as TrustedInstaller (SYSTEM)
+
 ## self-hosted 
 
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
@@ -861,6 +866,7 @@
 
 ## windows 
 
+- [fafalone/RunAsTrustedInstaller](https://github.com/fafalone/RunAsTrustedInstaller) - Run a program as TrustedInstaller (SYSTEM)
 - [bol-van/zapret2](https://github.com/bol-van/zapret2) - anti-dpi software
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
