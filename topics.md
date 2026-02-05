@@ -594,6 +594,7 @@
 
 ## others 
 
+- [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
 - [MegalithOfficial/Zinc](https://github.com/MegalithOfficial/Zinc) - Zig toolchain management and ZLS integration for Zed, inspired by vscode-zig.
 - [DreamMaoMao/mangowc](https://github.com/DreamMaoMao/mangowc) - wayland compositor base wlroots and scenefx(dwm but wayland)
 - [Equicord/Equicord](https://github.com/Equicord/Equicord) - The other cutest Discord client mod
