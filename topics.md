@@ -37,6 +37,7 @@
 - [electron](#electron)
 - [firebase](#firebase)
 - [firefox](#firefox)
+- [flask](#flask)
 - [flutter](#flutter)
 - [flutter-apps](#flutter-apps)
 - [framework](#framework)
@@ -176,6 +177,7 @@
 
 ## automation 
 
+- [ChrispyBacon-dev/DockFlare](https://github.com/ChrispyBacon-dev/DockFlare) - DockFlare: Automate Cloudflare Tunnels with Docker Labels
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
@@ -284,6 +286,7 @@
 
 ## docker 
 
+- [ChrispyBacon-dev/DockFlare](https://github.com/ChrispyBacon-dev/DockFlare) - DockFlare: Automate Cloudflare Tunnels with Docker Labels
 - [Finsys/dockhand](https://github.com/Finsys/dockhand) - Dockhand - Docker management you will like.
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [dockpeek/dockpeek](https://github.com/dockpeek/dockpeek) - Easily access your Docker container web interfaces and keep them up to date — across all your hosts.
@@ -322,6 +325,10 @@
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - All of source code of Floorp 12, the most Advanced and Fastest Firefox derivative 🦊
+
+## flask 
+
+- [ChrispyBacon-dev/DockFlare](https://github.com/ChrispyBacon-dev/DockFlare) - DockFlare: Automate Cloudflare Tunnels with Docker Labels
 
 ## flutter 
 
@@ -706,6 +713,7 @@
 
 ## python 
 
+- [ChrispyBacon-dev/DockFlare](https://github.com/ChrispyBacon-dev/DockFlare) - DockFlare: Automate Cloudflare Tunnels with Docker Labels
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [giantpinkrobots/varia](https://github.com/giantpinkrobots/varia) - Download manager that supports regular downloads, torrents and videos
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
@@ -754,6 +762,7 @@
 
 ## security 
 
+- [ChrispyBacon-dev/DockFlare](https://github.com/ChrispyBacon-dev/DockFlare) - DockFlare: Automate Cloudflare Tunnels with Docker Labels
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [badmojr/1Hosts](https://github.com/badmojr/1Hosts) - Advanced DNS filter/blocklists for privacy, security, and clean browsing.
