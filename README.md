@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -33,6 +34,10 @@
 - [Visual Basic 6.0](#visual-basic-6.0)
 - [Vue](#vue)
 - [Zig](#zig)
+
+## Batchfile 
+
+- [ionuttbara/windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover) - A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.
 
 ## C 
 
@@ -197,7 +202,6 @@
 
 - [ntdevlabs/nano11](https://github.com/ntdevlabs/nano11) - Script to build possibly the most trimmed-down Windows 11 experience.
 - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
-- [ionuttbara/windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover) - A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.
 
 ## Python 
 
@@ -287,7 +291,6 @@
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [LettuceAI/mobile-app](https://github.com/LettuceAI/mobile-app) - Official mobile app for LettuceAI.
 - [mxrcochxvez/hytale-mod-initializer](https://github.com/mxrcochxvez/hytale-mod-initializer) - 
-- [Tools-cx-app/meta-magic_mount](https://github.com/Tools-cx-app/meta-magic_mount) - Magic Mount Metamodule
 - [Vencord/Vesktop](https://github.com/Vencord/Vesktop) - Vesktop is a custom Discord App aiming to give you better performance and improve linux support
 - [jordan-dalby/ByteStash](https://github.com/jordan-dalby/ByteStash) - A code snippet storage solution written in React & node.js
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
