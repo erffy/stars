@@ -84,6 +84,7 @@
 - [opengl](#opengl)
 - [others](#others)
 - [package-manager](#package-manager)
+- [php](#php)
 - [postgresql](#postgresql)
 - [privacy](#privacy)
 - [productivity](#productivity)
@@ -166,6 +167,7 @@
 
 ## archlinux 
 
+- [ungoogled-software/ungoogled-chromium-archlinux](https://github.com/ungoogled-software/ungoogled-chromium-archlinux) - Arch Linux packaging for ungoogled-chromium
 - [Antiz96/arch-update](https://github.com/Antiz96/arch-update) - An update notifier & applier for Arch Linux with a systray applet that assists you with important pre / post update tasks.
 - [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos) - Archlinux Kernel based on different schedulers and some other performance improvements.
 - [CachyOS/New-Cli-Installer](https://github.com/CachyOS/New-Cli-Installer) - CachyOS CLI Installer
@@ -610,6 +612,7 @@
 
 ## others 
 
+- [LettuceAI/engine](https://github.com/LettuceAI/engine) - Hyperrealistic AI character engine — identity, not roleplay
 - [CodingWonders/MicroWin](https://github.com/CodingWonders/MicroWin) - The future home of MicroWin.
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
@@ -686,6 +689,10 @@
 ## package-manager 
 
 - [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
+
+## php 
+
+- [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
 
 ## postgresql 
 
@@ -784,6 +791,7 @@
 
 ## self-hosted 
 
+- [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
