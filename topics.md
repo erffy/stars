@@ -614,6 +614,8 @@
 
 ## others 
 
+- [luisbocanegra/plasma-panel-colorizer](https://github.com/luisbocanegra/plasma-panel-colorizer) - Latte-Dock and WM status bar customization for the KDE Plasma panels
+- [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish
 - [LettuceAI/engine](https://github.com/LettuceAI/engine) - Hyperrealistic AI character engine — identity, not roleplay
 - [CodingWonders/MicroWin](https://github.com/CodingWonders/MicroWin) - The future home of MicroWin.
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
