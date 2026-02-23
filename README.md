@@ -42,6 +42,7 @@
 
 ## C 
 
+- [X11Libre/xserver](https://github.com/X11Libre/xserver) - XLibre Xserver
 - [DreamMaoMao/mangowc](https://github.com/DreamMaoMao/mangowc) - wayland compositor base wlroots and scenefx(dwm but wayland)
 - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
 - [bol-van/zapret2](https://github.com/bol-van/zapret2) - anti-dpi software
