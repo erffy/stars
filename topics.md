@@ -462,6 +462,7 @@
 
 ## linux 
 
+- [X11Libre/xserver](https://github.com/X11Libre/xserver) - XLibre Xserver
 - [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
 - [orhun/kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
 - [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil) - Chris Titus Tech's Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.
@@ -501,6 +502,7 @@
 
 ## macos 
 
+- [X11Libre/xserver](https://github.com/X11Libre/xserver) - XLibre Xserver
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [InioX/matugen](https://github.com/InioX/matugen) - A material you color generation tool
 - [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
@@ -610,6 +612,7 @@
 
 ## opengl 
 
+- [X11Libre/xserver](https://github.com/X11Libre/xserver) - XLibre Xserver
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 
 ## others 
@@ -900,6 +903,7 @@
 
 ## windows 
 
+- [X11Libre/xserver](https://github.com/X11Libre/xserver) - XLibre Xserver
 - [fafalone/RunAsTrustedInstaller](https://github.com/fafalone/RunAsTrustedInstaller) - Run a program as TrustedInstaller (SYSTEM)
 - [bol-van/zapret2](https://github.com/bol-van/zapret2) - anti-dpi software
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
