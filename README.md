@@ -70,6 +70,7 @@
 
 ## C++ 
 
+- [hyprwm/hyprqt6engine](https://github.com/hyprwm/hyprqt6engine) - QT6 Theme Provider for Hyprland
 - [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
 - [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
@@ -166,7 +167,7 @@
 
 ## Kotlin 
 
-- [koiverse/ArchiveTune](https://github.com/koiverse/ArchiveTune) - The cutest Material 3 Expressive music streaming client for Android, built for performance and extensibility.
+- [koiverse/ArchiveTune](https://github.com/koiverse/ArchiveTune) - The Cutest Material 3 Expressive Youtube Music client for Android, built for performance and extensibility.
 - [thedjchi/Shizuku](https://github.com/thedjchi/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 - [theovilardo/PixelPlayer](https://github.com/theovilardo/PixelPlayer) - privacy-first Android music player built with Material 3 Expressive. Play offline, sync lyrics, fine-tune with equalizer presets, and cast to your devices.
 - [protonpass/android-pass](https://github.com/protonpass/android-pass) - Android code for the Proton Pass application
@@ -232,6 +233,7 @@
 
 ## Rust 
 
+- [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
 - [orhun/kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
 - [MegalithOfficial/Zinc](https://github.com/MegalithOfficial/Zinc) - Zig toolchain management and ZLS integration for Zed, inspired by vscode-zig.
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
