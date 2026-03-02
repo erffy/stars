@@ -168,7 +168,7 @@
 ## archlinux 
 
 - [ungoogled-software/ungoogled-chromium-archlinux](https://github.com/ungoogled-software/ungoogled-chromium-archlinux) - Arch Linux packaging for ungoogled-chromium
-- [Antiz96/arch-update](https://github.com/Antiz96/arch-update) - An update notifier & applier for Arch Linux with a systray applet that assists you with important pre / post update tasks.
+- [Antiz96/arch-update](https://github.com/Antiz96/arch-update) - An interactive update notifier & applier for Arch Linux with a systray applet that assists you with important pre / post update tasks.
 - [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos) - Archlinux Kernel based on different schedulers and some other performance improvements.
 - [CachyOS/New-Cli-Installer](https://github.com/CachyOS/New-Cli-Installer) - CachyOS CLI Installer
 - [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
@@ -670,7 +670,7 @@
 - [uazo/cromite](https://github.com/uazo/cromite) - Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser!
 - [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [ValveSoftware/wine](https://github.com/ValveSoftware/wine) - Wine with a bit of extra spice
-- [Duckonaut/split-monitor-workspaces](https://github.com/Duckonaut/split-monitor-workspaces) - A small Hyprland plugin to provide awesome-like workspace behavior
+- [zjeffer/split-monitor-workspaces](https://github.com/zjeffer/split-monitor-workspaces) - A small Hyprland plugin to provide awesome-like workspace behavior
 - [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) - A memory safe implementation of sudo and su.
 - [AloozChips/OneUIEmojiPack](https://github.com/AloozChips/OneUIEmojiPack) - Module that systemlessly replaces the AOSP emoji pack with the OneUI emoji pack. Compatible with most popular Android Root Solutions, including Magisk, KSU, and Apatch.
 - [gerritdevriese/kzones](https://github.com/gerritdevriese/kzones) - KDE KWin Script for snapping windows into zones
