@@ -301,6 +301,7 @@
 
 ## TypeScript 
 
+- [Tools-cx-app/meta-magic_mount-rs](https://github.com/Tools-cx-app/meta-magic_mount-rs) - An implementation of a metamodule using Magic Mount, Based on MKSU, Template is from meta-overlay.
 - [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP platform built for friends, groups, and communities.
 - [aptabase/aptabase](https://github.com/aptabase/aptabase) - ✨ Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps
 - [Equicord/Equicord](https://github.com/Equicord/Equicord) - The other cutest Discord client mod
