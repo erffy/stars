@@ -118,7 +118,7 @@
 - [xeome/slimserve](https://github.com/xeome/slimserve) - 
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
 - [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
@@ -131,6 +131,7 @@
 
 - [wilsonzlin/fastrender](https://github.com/wilsonzlin/fastrender) - Experimental new browser engine
 - [yusufipk/AndroidAcikKalsin](https://github.com/yusufipk/AndroidAcikKalsin) - 
+- [Zigistry/Zigistry](https://github.com/Zigistry/Zigistry) - A place where you can find all the libraries that suit your Zig lang needs. ⭐️ Please star to support this work!
 - [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [badmojr/1Hosts](https://github.com/badmojr/1Hosts) - Advanced DNS filter/blocklists for privacy, security, and clean browsing.
 
@@ -168,6 +169,7 @@
 
 ## Kotlin 
 
+- [pass-with-high-score/blockads-android](https://github.com/pass-with-high-score/blockads-android) - Block ads system-wide on Android using local VPN-based DNS filtering. No root needed. No data collection.
 - [koiverse/ArchiveTune](https://github.com/koiverse/ArchiveTune) - The Cutest Material 3 Expressive Youtube Music client for Android, built for performance and extensibility.
 - [thedjchi/Shizuku](https://github.com/thedjchi/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 - [theovilardo/PixelPlayer](https://github.com/theovilardo/PixelPlayer) - privacy-first Android music player built with Material 3 Expressive. Play offline, sync lyrics, fine-tune with equalizer presets, and cast to your devices.
@@ -288,7 +290,6 @@
 ## Svelte 
 
 - [Finsys/dockhand](https://github.com/Finsys/dockhand) - Dockhand - Docker management you will like.
-- [Zigistry/Zigistry](https://github.com/Zigistry/Zigistry) - A place where you can find all the libraries that suit your Zig lang needs. ⭐️ Please star to support this work!
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included!
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
 
