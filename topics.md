@@ -128,7 +128,7 @@
 ## ai 
 
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 coding agent on OpenRouter. 1.5M+ Kilo Coders. 25T+ tokens proce
-- [LettuceAI/app](https://github.com/LettuceAI/app) - Official mobile app for LettuceAI.
+- [LettuceAI/app](https://github.com/LettuceAI/app) - Official app of LettuceAI.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
 ## analytics 
@@ -569,7 +569,7 @@
 
 ## mobile 
 
-- [LettuceAI/app](https://github.com/LettuceAI/app) - Official mobile app for LettuceAI.
+- [LettuceAI/app](https://github.com/LettuceAI/app) - Official app of LettuceAI.
 - [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
 
 ## mongodb 
@@ -643,6 +643,7 @@
 
 ## others 
 
+- [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [vc-teahouse/Baseband-guard](https://github.com/vc-teahouse/Baseband-guard) - A lightweight LSM (Linux Security Module) for the Android kernel, designed to block unauthorized writes to critical partitions/device nodes at the system level.
 - [farfromrefug/EnforceDoze](https://github.com/farfromrefug/EnforceDoze) - Enable Doze mode immediately after screen off and turn off motion sensing to get best battery life
 - [avi12/youtube-auto-hd](https://github.com/avi12/youtube-auto-hd) - A simple browser extension for changing YouTube videos' quality based on FPS.
@@ -740,6 +741,7 @@
 ## privacy 
 
 - [GrapheneOS/Camera](https://github.com/GrapheneOS/Camera) - Modern camera app focused on privacy and security with QR & barcode scanning.
+- [pass-with-high-score/blockads-android](https://github.com/pass-with-high-score/blockads-android) - Block ads system-wide on Android using local VPN-based DNS filtering. No root needed. No data collection.
 - [aptabase/aptabase](https://github.com/aptabase/aptabase) - ✨ Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps
 - [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
@@ -784,7 +786,7 @@
 
 ## react 
 
-- [LettuceAI/app](https://github.com/LettuceAI/app) - Official mobile app for LettuceAI.
+- [LettuceAI/app](https://github.com/LettuceAI/app) - Official app of LettuceAI.
 - [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard, primarily used by smaller private servers
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - [MegalithOfficial/Chatalia](https://github.com/MegalithOfficial/Chatalia) - A modern, local-first AI chat interface built with Tauri, React, and Rust. Secure, private, and supports multiple LLM providers. 🚀
