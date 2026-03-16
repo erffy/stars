@@ -40,7 +40,6 @@
 - [firefox](#firefox)
 - [flask](#flask)
 - [flutter](#flutter)
-- [flutter-apps](#flutter-apps)
 - [framework](#framework)
 - [frontend](#frontend)
 - [git](#git)
@@ -355,13 +354,8 @@
 
 - [deckerst/aves](https://github.com/deckerst/aves) - Aves is a gallery and metadata explorer app, built for Android with Flutter.
 - [aptabase/aptabase](https://github.com/aptabase/aptabase) - ✨ Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps
-- [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
-
-## flutter-apps 
-
-- [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
 
 ## framework 
 
@@ -649,7 +643,7 @@
 - [avi12/youtube-auto-hd](https://github.com/avi12/youtube-auto-hd) - A simple browser extension for changing YouTube videos' quality based on FPS.
 - [Tools-cx-app/meta-magic_mount-rs](https://github.com/Tools-cx-app/meta-magic_mount-rs) - An implementation of a metamodule using Magic Mount, Based on MKSU, Template is from meta-overlay.
 - [hyprwm/contrib](https://github.com/hyprwm/contrib) - Community scripts and utilities for Hypr projects
-- [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP platform built for friends, groups, and communities.
+- [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP platform built for friends, groups, and communities. Self-hosting and more activity in this repository is coming very soon! See the README.
 - [hyprwm/hyprqt6engine](https://github.com/hyprwm/hyprqt6engine) - QT6 Theme Provider for Hyprland
 - [luisbocanegra/plasma-panel-colorizer](https://github.com/luisbocanegra/plasma-panel-colorizer) - Latte-Dock and WM status bar customization for the KDE Plasma panels
 - [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish
