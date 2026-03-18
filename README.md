@@ -172,6 +172,7 @@
 
 ## Kotlin 
 
+- [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [aleksey-saenko/MusicRecognizer](https://github.com/aleksey-saenko/MusicRecognizer) - An open-source Android app for music recognition that integrates AudD, ACRCloud, and Shazam to perform song identification.
 - [FossifyOrg/Messages](https://github.com/FossifyOrg/Messages) - An easy and quick way of managing SMS and MMS messages without ads.
 - [FossifyOrg/Clock](https://github.com/FossifyOrg/Clock) - Combination of a beautiful clock with widget, alarm, stopwatch & timer, no ads
@@ -237,13 +238,13 @@
 
 ## QML 
 
+- [xarbit/plasma6-applet-appgrid](https://github.com/xarbit/plasma6-applet-appgrid) - A modern  application launcher for KDE Plasma, inspired by macOS  and COSMIC.
 - [luisbocanegra/plasma-panel-colorizer](https://github.com/luisbocanegra/plasma-panel-colorizer) - Latte-Dock and WM status bar customization for the KDE Plasma panels
 - [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
 - [gerritdevriese/kzones](https://github.com/gerritdevriese/kzones) - KDE KWin Script for snapping windows into zones
 
 ## Rust 
 
-- [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
 - [orhun/kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
 - [MegalithOfficial/Zinc](https://github.com/MegalithOfficial/Zinc) - Zig toolchain management and ZLS integration for Zed, inspired by vscode-zig.
