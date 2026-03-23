@@ -144,7 +144,7 @@
 - [GhostSHAURMA/BetterCopperGolem](https://github.com/GhostSHAURMA/BetterCopperGolem) - A small mods that tweaks vanilla golem AI
 - [pcal43/quicksort](https://github.com/pcal43/quicksort) - Minecraft mod.  Low-effort item sorting to keep your workshop organized.
 - [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
-- [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced
+- [ReVanced/ravanced-patches](https://github.com/ReVanced/ravanced-patches) - 🧩 Patches for ReVanced
 - [sunilpaulmathew/De-Bloater](https://github.com/sunilpaulmathew/De-Bloater) - An application using the power of Magisk to debloat unwanted system apps!
 - [Mercurygram/Mercurygram](https://github.com/Mercurygram/Mercurygram) - Unofficial, FOSS-friendly fork of the original Telegram client for Android
 - [LeavesMC/Leaves](https://github.com/LeavesMC/Leaves) - Fork of Paper aimed at repairing broken vanilla properties.
@@ -172,6 +172,7 @@
 
 ## Kotlin 
 
+- [SukiSU-Ultra/SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra) - Kernel-based Android Root Solution & KPM
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [aleksey-saenko/MusicRecognizer](https://github.com/aleksey-saenko/MusicRecognizer) - An open-source Android app for music recognition that integrates AudD, ACRCloud, and Shazam to perform song identification.
 - [FossifyOrg/Messages](https://github.com/FossifyOrg/Messages) - An easy and quick way of managing SMS and MMS messages without ads.
