@@ -229,6 +229,7 @@
 
 ## Python 
 
+- [redhat-performance/tuned](https://github.com/redhat-performance/tuned) - Tuning Profile Delivery Mechanism for Linux
 - [LettuceAI/engine](https://github.com/LettuceAI/engine) - Hyperrealistic AI character engine — identity, not roleplay
 - [ChrispyBacon-dev/DockFlare](https://github.com/ChrispyBacon-dev/DockFlare) - DockFlare: Automate Cloudflare Tunnels with Docker Labels
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
@@ -259,7 +260,7 @@
 - [systemd/zram-generator](https://github.com/systemd/zram-generator) - Systemd unit generator for zram devices
 - [saivert/pwvucontrol](https://github.com/saivert/pwvucontrol) - Pipewire Volume Control
 - [ErikReider/SwayOSD](https://github.com/ErikReider/SwayOSD) - A GTK based on screen display for keyboard shortcuts like caps-lock and volume
-- [InioX/matugen](https://github.com/InioX/matugen) - A material you color generation tool
+- [InioX/matugen](https://github.com/InioX/matugen) - A cross-platform material you and base16 color generation tool
 - [Kernel-SU/ksuinit](https://github.com/Kernel-SU/ksuinit) - 
 - [orhun/rustypaste](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -280,6 +281,7 @@
 
 ## Shell 
 
+- [osm0sis/AnyKernel3](https://github.com/osm0sis/AnyKernel3) - AnyKernel, Evolved
 - [dracut-ng/dracut-ng](https://github.com/dracut-ng/dracut-ng) - dracut - the event driven initramfs infrastructure
 - [hyprwm/contrib](https://github.com/hyprwm/contrib) - Community scripts and utilities for Hypr projects
 - [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish
