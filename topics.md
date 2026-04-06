@@ -580,6 +580,7 @@
 
 ## monitoring 
 
+- [Levminer/cores](https://github.com/Levminer/cores) - Modern hardware monitor with remote monitoring.
 - [orhun/kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included!
