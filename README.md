@@ -304,6 +304,7 @@
 
 ## Svelte 
 
+- [Levminer/cores](https://github.com/Levminer/cores) - Modern hardware monitor with remote monitoring.
 - [Finsys/dockhand](https://github.com/Finsys/dockhand) - Dockhand - Docker management you will like.
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included!
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
