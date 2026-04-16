@@ -646,6 +646,7 @@
 
 ## others 
 
+- [yusufipk/OpenFrame](https://github.com/yusufipk/OpenFrame) - OpenFrame is an open source video review and approval platform for teams that need clear feedback, version control, and client-friendly review links in one place. It supports collaborative review work
 - [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
 - [redhat-performance/tuned](https://github.com/redhat-performance/tuned) - Tuning Profile Delivery Mechanism for Linux
 - [osm0sis/AnyKernel3](https://github.com/osm0sis/AnyKernel3) - AnyKernel, Evolved
