@@ -143,7 +143,7 @@
 ## Java 
 
 - [GrapheneOS/Camera](https://github.com/GrapheneOS/Camera) - Modern camera app focused on privacy and security with QR & barcode scanning.
-- [farfromrefug/EnforceDoze](https://github.com/farfromrefug/EnforceDoze) - Enable Doze mode immediately after screen off and turn off motion sensing to get best battery life
+- [Akylas/EnforceDoze](https://github.com/Akylas/EnforceDoze) - Enable Doze mode immediately after screen off and turn off motion sensing to get best battery life
 - [Kaupenjoe/Hytale-Example-Plugin](https://github.com/Kaupenjoe/Hytale-Example-Plugin) - A template for Hytale java plugins. Highly WIP, things might break! 🙏🏻
 - [GhostSHAURMA/BetterCopperGolem](https://github.com/GhostSHAURMA/BetterCopperGolem) - A small mods that tweaks vanilla golem AI
 - [pcal43/quicksort](https://github.com/pcal43/quicksort) - Minecraft mod.  Low-effort item sorting to keep your workshop organized.
@@ -229,6 +229,7 @@
 
 ## Python 
 
+- [megadose/holehe](https://github.com/megadose/holehe) - holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
 - [redhat-performance/tuned](https://github.com/redhat-performance/tuned) - Tuning Profile Delivery Mechanism for Linux
 - [LettuceAI/engine](https://github.com/LettuceAI/engine) - Hyperrealistic AI character engine — identity, not roleplay
 - [ChrispyBacon-dev/DockFlare](https://github.com/ChrispyBacon-dev/DockFlare) - DockFlare: Automate Cloudflare Tunnels with Docker Labels
@@ -342,7 +343,7 @@
 - [victrme/Bonjourr](https://github.com/victrme/Bonjourr) - Minimalist & lightweight startpage inspired by iOS
 - [slopjs/slopjs](https://github.com/slopjs/slopjs) - 
 - [MegalithOfficial/Chatalia](https://github.com/MegalithOfficial/Chatalia) - A modern, local-first AI chat interface built with Tauri, React, and Rust. Secure, private, and supports multiple LLM providers. 🚀
-- [dabao1955/kernel_build_action](https://github.com/dabao1955/kernel_build_action) - a action to build kernel automatically[force push warning!]
+- [dabao1955/kernel_build_action](https://github.com/dabao1955/kernel_build_action) - An github action to build kernel automatically[force push warning!]
 - [mt190502/firerss](https://github.com/mt190502/firerss) - A RSS Scraper for Browsers
 - [LibreTurks/usmanagabot](https://github.com/LibreTurks/usmanagabot) - 
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
