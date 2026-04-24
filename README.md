@@ -229,6 +229,7 @@
 
 ## Python 
 
+- [MegalithOfficial/sage](https://github.com/MegalithOfficial/sage) - Lightweight, privacy-first content moderation model for chat and roleplay.
 - [megadose/holehe](https://github.com/megadose/holehe) - holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
 - [redhat-performance/tuned](https://github.com/redhat-performance/tuned) - Tuning Profile Delivery Mechanism for Linux
 - [LettuceAI/engine](https://github.com/LettuceAI/engine) - Hyperrealistic AI character engine — identity, not roleplay
@@ -265,7 +266,7 @@
 - [Kernel-SU/ksuinit](https://github.com/Kernel-SU/ksuinit) - 
 - [orhun/rustypaste](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [0l3d/ffetch](https://github.com/0l3d/ffetch) - F-Fetch is Fast and Minimal. Written in Rust.
+- [0l3d/ffetch](https://github.com/0l3d/ffetch) - F-Fetch is a fast, minimal tool for fetching system information, written in Rust.
 - [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) - A memory safe implementation of sudo and su.
 - [j-hc/zygisk-detach](https://github.com/j-hc/zygisk-detach) - Zygisk module to detach installed apps from Play Store, hooking binder
 - [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
