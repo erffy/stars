@@ -38,6 +38,7 @@
 
 ## Batchfile 
 
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 - [ionuttbara/windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover) - A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.
 
 ## C 
@@ -66,6 +67,7 @@
 
 ## C# # 
 
+- [bilalemregrkn/BaseProject](https://github.com/bilalemregrkn/BaseProject) - 
 - [memstechtips/Winhance](https://github.com/memstechtips/Winhance) - Application designed to optimize, customize and enhance your Windows experience.
 - [CodingWonders/MicroWin](https://github.com/CodingWonders/MicroWin) - The future home of MicroWin.
 - [0x5bfa/RegistryEditor](https://github.com/0x5bfa/RegistryEditor) - Modernize your regedit with WinUI.
