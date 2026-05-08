@@ -130,6 +130,7 @@
 - [windows](#windows)
 - [youtube](#youtube)
 - [zig](#zig)
+- [zsh](#zsh)
 
 ## ai 
 
@@ -218,6 +219,7 @@
 
 ## bash 
 
+- [hendriknielaender/zvm](https://github.com/hendriknielaender/zvm) - ⚡ POSIX-compliant fast and simple zig version manager (zvm)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 
 ## c 
@@ -248,6 +250,7 @@
 ## cli 
 
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
+- [hendriknielaender/zvm](https://github.com/hendriknielaender/zvm) - ⚡ POSIX-compliant fast and simple zig version manager (zvm)
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [0l3d/ffetch](https://github.com/0l3d/ffetch) - F-Fetch is a fast, minimal tool for fetching system information, written in Rust.
@@ -791,6 +794,7 @@
 
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 - [memstechtips/Winhance](https://github.com/memstechtips/Winhance) - Application designed to optimize, customize and enhance your Windows experience.
+- [hendriknielaender/zvm](https://github.com/hendriknielaender/zvm) - ⚡ POSIX-compliant fast and simple zig version manager (zvm)
 
 ## privacy 
 
@@ -1052,6 +1056,10 @@
 - [erffy/zig-waybar-contrib](https://github.com/erffy/zig-waybar-contrib) - ⚡ High-performance Waybar modules written in Zig for efficient system monitoring
 - [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+
+## zsh 
+
+- [hendriknielaender/zvm](https://github.com/hendriknielaender/zvm) - ⚡ POSIX-compliant fast and simple zig version manager (zvm)
 
 
 ## License
