@@ -215,7 +215,7 @@
 ## awesome-list 
 
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
-- [DesignLipsx/WinUI-3-Apps-List](https://github.com/DesignLipsx/WinUI-3-Apps-List) - A curated collection of over 420+ apps that embrace the WinUI 3 Design
+- [jishnu-kv/WinUI-3-Apps-List](https://github.com/jishnu-kv/WinUI-3-Apps-List) - A curated collection of over 420+ apps that embrace the WinUI 3 Design
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included!
 
 ## backend 
@@ -302,7 +302,7 @@
 
 ## design 
 
-- [DesignLipsx/WinUI-3-Apps-List](https://github.com/DesignLipsx/WinUI-3-Apps-List) - A curated collection of over 420+ apps that embrace the WinUI 3 Design
+- [jishnu-kv/WinUI-3-Apps-List](https://github.com/jishnu-kv/WinUI-3-Apps-List) - A curated collection of over 420+ apps that embrace the WinUI 3 Design
 - [CapnKitten/Material-Discord](https://github.com/CapnKitten/Material-Discord) - Material design theme for Discord
 
 ## developer-tools 
@@ -531,6 +531,7 @@
 
 ## linux 
 
+- [eminence/procfs](https://github.com/eminence/procfs) - Rust library for reading the Linux procfs filesystem
 - [capy-ui/capy](https://github.com/capy-ui/capy) - 💻Build one codebase and get native UI on Windows, Linux and Web
 - [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic) - A cross-platform music app using YouTube Music for backend
 - [Alex313031/thorium](https://github.com/Alex313031/thorium) - Chromium fork named after radioactive element No. 90. Source code and Linux releases. Windows/MacOS/ARM builds served in different repos, links are towards the top of the README.md.
@@ -595,6 +596,7 @@
 
 ## markdown 
 
+- [haiwen/seafile](https://github.com/haiwen/seafile) - Beyond file syncing and sharing, a new way to organize your files with extensible file properties and flexible views
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 
 ## material-design 
@@ -892,6 +894,7 @@
 
 ## rust 
 
+- [eminence/procfs](https://github.com/eminence/procfs) - Rust library for reading the Linux procfs filesystem
 - [Relm4/Relm4](https://github.com/Relm4/Relm4) - Build truly native applications with ease!
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
@@ -1010,7 +1013,7 @@
 ## ui 
 
 - [capy-ui/capy](https://github.com/capy-ui/capy) - 💻Build one codebase and get native UI on Windows, Linux and Web
-- [DesignLipsx/WinUI-3-Apps-List](https://github.com/DesignLipsx/WinUI-3-Apps-List) - A curated collection of over 420+ apps that embrace the WinUI 3 Design
+- [jishnu-kv/WinUI-3-Apps-List](https://github.com/jishnu-kv/WinUI-3-Apps-List) - A curated collection of over 420+ apps that embrace the WinUI 3 Design
 
 ## video 
 
