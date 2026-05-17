@@ -44,6 +44,7 @@
 
 ## C 
 
+- [haiwen/seafile](https://github.com/haiwen/seafile) - Beyond file syncing and sharing, a new way to organize your files with extensible file properties and flexible views
 - [Jeffrey-Sardina/liberated-systemd](https://github.com/Jeffrey-Sardina/liberated-systemd) - Liberated systemd -- no surveillance. Ever.
 - [vc-teahouse/Baseband-guard](https://github.com/vc-teahouse/Baseband-guard) - A lightweight LSM (Linux Security Module) for the Android kernel, designed to block unauthorized writes to critical partitions/device nodes at the system level.
 - [oracle/bpftune](https://github.com/oracle/bpftune) - bpftune uses BPF to auto-tune Linux systems
@@ -226,7 +227,7 @@
 
 - [erffy/zix](https://github.com/erffy/zix) - A fast, lightweight, and powerful Zig version manager.
 - [erffy/zig-sysinfo](https://github.com/erffy/zig-sysinfo) - A library that retrieves system information
-- [DesignLipsx/WinUI-3-Apps-List](https://github.com/DesignLipsx/WinUI-3-Apps-List) - A curated collection of over 420+ apps that embrace the WinUI 3 Design
+- [jishnu-kv/WinUI-3-Apps-List](https://github.com/jishnu-kv/WinUI-3-Apps-List) - A curated collection of over 420+ apps that embrace the WinUI 3 Design
 - [erffy/zig-waybar-contrib](https://github.com/erffy/zig-waybar-contrib) - ⚡ High-performance Waybar modules written in Zig for efficient system monitoring
 
 ## PHP 
@@ -265,6 +266,7 @@
 
 ## Rust 
 
+- [eminence/procfs](https://github.com/eminence/procfs) - Rust library for reading the Linux procfs filesystem
 - [Relm4/Relm4](https://github.com/Relm4/Relm4) - Build truly native applications with ease!
 - [gtk-rs/gtk4-rs](https://github.com/gtk-rs/gtk4-rs) - Rust bindings of GTK 4
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
