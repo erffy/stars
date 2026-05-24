@@ -635,6 +635,7 @@
 
 ## minecraft 
 
+- [EVV1E/waylandcraft](https://github.com/EVV1E/waylandcraft) - Wayland Compositor in Minecraft
 - [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
 - [pcal43/quicksort](https://github.com/pcal43/quicksort) - Minecraft mod.  Low-effort item sorting to keep your workshop organized.
 - [LeavesMC/Leaves](https://github.com/LeavesMC/Leaves) - Fork of Paper aimed at repairing broken vanilla properties.
@@ -723,6 +724,8 @@
 
 ## others 
 
+- [intel/intel-lpmd](https://github.com/intel/intel-lpmd) - 
+- [CachyOS/chwd](https://github.com/CachyOS/chwd) - Hardware Detection and Configuration for CachyOS
 - [CaptainSP/animecix-desktop-2](https://github.com/CaptainSP/animecix-desktop-2) - 
 - [vercel-labs/zero-native](https://github.com/vercel-labs/zero-native) - Build desktop + mobile apps with Zig and web UI
 - [Korthos-Software/low_latency_layer](https://github.com/Korthos-Software/low_latency_layer) - Vulkan layer for hardware agnostic input latency reduction
