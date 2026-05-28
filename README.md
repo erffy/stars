@@ -187,6 +187,7 @@
 
 ## Kotlin 
 
+- [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
 - [Mahmud0808/Iconify](https://github.com/Mahmud0808/Iconify) - Iconify lets you customize your Android 12+ device easily. Change icons, colors, shapes, and even the notification panel for a personalized look that suits your style.
 - [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic) - A cross-platform music app using YouTube Music for backend
 - [knighthat/Kreate](https://github.com/knighthat/Kreate) - A multilingual YouTube Music frontend for Android, prioritize performance
@@ -230,6 +231,7 @@
 
 ## Others 
 
+- [zylhdrXP/FleurX-Release](https://github.com/zylhdrXP/FleurX-Release) - 
 - [nicoth-in/Dark-Space-Theme](https://github.com/nicoth-in/Dark-Space-Theme) - Firefox Theme
 - [erffy/zix](https://github.com/erffy/zix) - A fast, lightweight, and powerful Zig version manager.
 - [erffy/zig-sysinfo](https://github.com/erffy/zig-sysinfo) - A library that retrieves system information
