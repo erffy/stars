@@ -30,6 +30,7 @@
 - [Shell](#shell)
 - [Svelte](#svelte)
 - [TeX](#tex)
+- [Text](#text)
 - [TypeScript](#typescript)
 - [Vala](#vala)
 - [Visual Basic 6.0](#visual-basic-6.0)
@@ -275,6 +276,7 @@
 
 ## Rust 
 
+- [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [CachyOS/chwd](https://github.com/CachyOS/chwd) - Hardware Detection and Configuration for CachyOS
 - [eminence/procfs](https://github.com/eminence/procfs) - Rust library for reading the Linux procfs filesystem
 - [Relm4/Relm4](https://github.com/Relm4/Relm4) - Build truly native applications with ease!
@@ -344,6 +346,10 @@
 ## TeX 
 
 - [kreatoo/cv-template](https://github.com/kreatoo/cv-template) - Kreato's CV template (also known as the worlds most overengineered CV), using Nix, LaTeX and GitHub Actions
+
+## Text 
+
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 
 ## TypeScript 
 
