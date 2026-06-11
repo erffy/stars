@@ -254,6 +254,7 @@
 
 ## Python 
 
+- [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar) - Linux device manager for Logitech devices
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [MegalithOfficial/sage](https://github.com/MegalithOfficial/sage) - Lightweight, privacy-first content moderation model for chat and roleplay.
 - [megadose/holehe](https://github.com/megadose/holehe) - holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
