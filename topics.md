@@ -1124,6 +1124,7 @@
 
 ## zig 
 
+- [luxluth/goose](https://github.com/luxluth/goose) - A pure Zig D-Bus implementation
 - [ianprime0509/zig-gobject](https://github.com/ianprime0509/zig-gobject) - GObject bindings for Zig using GObject introspection
 - [capy-ui/capy](https://github.com/capy-ui/capy) - 💻Build one codebase and get native UI on Windows, Linux and Web
 - [erffy/zix](https://github.com/erffy/zix) - A fast, lightweight, and powerful Zig version manager.
