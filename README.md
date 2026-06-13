@@ -403,6 +403,7 @@
 
 ## Zig 
 
+- [luxluth/goose](https://github.com/luxluth/goose) - A pure Zig D-Bus implementation
 - [ianprime0509/zig-gobject](https://github.com/ianprime0509/zig-gobject) - GObject bindings for Zig using GObject introspection
 - [vercel-labs/zero-native](https://github.com/vercel-labs/zero-native) - Build desktop + mobile apps with Zig and web UI
 - [capy-ui/capy](https://github.com/capy-ui/capy) - 💻Build one codebase and get native UI on Windows, Linux and Web
