@@ -200,7 +200,7 @@
 - [pass-with-high-score/blockads-android](https://github.com/pass-with-high-score/blockads-android) - Block ads system-wide on Android using local VPN-based DNS filtering. No root needed. No data collection.
 - [ArchiveTuneApp/ArchiveTune](https://github.com/ArchiveTuneApp/ArchiveTune) - The Cutest Material 3 Expressive Music Player With Support Local File and Youtube Music for Android.
 - [thedjchi/Shizuku](https://github.com/thedjchi/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
-- [theovilardo/PixelPlayer](https://github.com/theovilardo/PixelPlayer) - privacy-first Android music player built with Material 3 Expressive. Play offline, sync lyrics, fine-tune with equalizer presets, and cast to your devices.
+- [PixelPlayerHQ/PixelPlayer](https://github.com/PixelPlayerHQ/PixelPlayer) - privacy-first Android music player built with Material 3 Expressive. Play offline, sync lyrics, fine-tune with equalizer presets, and cast to your devices.
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
 - [protonpass/android-pass](https://github.com/protonpass/android-pass) - Android code for the Proton Pass application
 - [lihenggui/blocker](https://github.com/lihenggui/blocker) - Utilize an integrated firewall to manage application components.
@@ -403,6 +403,8 @@
 
 ## Zig 
 
+- [jiacai2050/zig-curl](https://github.com/jiacai2050/zig-curl) - Libcurl bindings for Zig
+- [sam701/zig-cli](https://github.com/sam701/zig-cli) - A simple package for building command line apps in Zig
 - [luxluth/goose](https://github.com/luxluth/goose) - A pure Zig D-Bus implementation
 - [ianprime0509/zig-gobject](https://github.com/ianprime0509/zig-gobject) - GObject bindings for Zig using GObject introspection
 - [vercel-labs/zero-native](https://github.com/vercel-labs/zero-native) - Build desktop + mobile apps with Zig and web UI
