@@ -38,6 +38,8 @@
 - [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
 - [electron](#electron)
+- [embedded](#embedded)
+- [esp32](#esp32)
 - [firebase](#firebase)
 - [firefox](#firefox)
 - [flask](#flask)
@@ -370,6 +372,14 @@
 - [aptabase/aptabase](https://github.com/aptabase/aptabase) - ✨ Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps
 - [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) - Unofficial Microsoft Teams for Linux client
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
+
+## embedded 
+
+- [redbith/espunix](https://github.com/redbith/espunix) - A small unix copy for esp32-s3
+
+## esp32 
+
+- [redbith/espunix](https://github.com/redbith/espunix) - A small unix copy for esp32-s3
 
 ## firebase 
 
@@ -736,6 +746,8 @@
 
 ## others 
 
+- [wrymt/darkly-gtk](https://github.com/wrymt/darkly-gtk) - Darkly GTK theme
+- [Bali10050/Darkly](https://github.com/Bali10050/Darkly) - Forked from the lightly theme, this style brings a fresh and unique look to your applications
 - [elFarto/nvidia-vaapi-driver](https://github.com/elFarto/nvidia-vaapi-driver) - A VA-API implemention using NVIDIA's NVDEC
 - [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar) - Linux device manager for Logitech devices
 - [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source
