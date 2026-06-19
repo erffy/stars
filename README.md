@@ -82,6 +82,8 @@
 
 ## C++ 
 
+- [redbith/espunix](https://github.com/redbith/espunix) - A small unix copy for esp32-s3
+- [Bali10050/Darkly](https://github.com/Bali10050/Darkly) - Forked from the lightly theme, this style brings a fresh and unique look to your applications
 - [Korthos-Software/low_latency_layer](https://github.com/Korthos-Software/low_latency_layer) - Vulkan layer for hardware agnostic input latency reduction
 - [intel/thermal_daemon](https://github.com/intel/thermal_daemon) - Thermal daemon for IA
 - [VertexF/Void](https://github.com/VertexF/Void) - a 3D vulkan game engine which is leveraging new graphics techniques to make a game.
@@ -312,6 +314,7 @@
 
 ## SCSS 
 
+- [wrymt/darkly-gtk](https://github.com/wrymt/darkly-gtk) - Darkly GTK theme
 - [edelvarden/material-fox-updated](https://github.com/edelvarden/material-fox-updated) - 🦊 Firefox user CSS theme looks similar to Chrome
 
 ## Shell 
