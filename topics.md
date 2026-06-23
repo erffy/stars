@@ -766,6 +766,7 @@
 
 ## others 
 
+- [Murqin/NoCropTrample](https://github.com/Murqin/NoCropTrample) - Stop players and mobs from destroying your precious crops!
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
 - [fork-maintainers/iceraven-browser](https://github.com/fork-maintainers/iceraven-browser) - Iceraven Browser
 - [wrymt/darkly-gtk](https://github.com/wrymt/darkly-gtk) - Darkly GTK theme
