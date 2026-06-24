@@ -160,7 +160,6 @@
 
 ## Java 
 
-- [Murqin/NoCropTrample](https://github.com/Murqin/NoCropTrample) - Stop players and mobs from destroying your precious crops!
 - [AbdurazaaqMohammed/AntiSplit-M](https://github.com/AbdurazaaqMohammed/AntiSplit-M) - App to AntiSplit (merge) split APKs (APKS/XAPK/APKM) to regular .APK file on Android
 - [XiaoTong6666/Sui](https://github.com/XiaoTong6666/Sui) - Modern super user interface implementation on Android.
 - [oracle/graal](https://github.com/oracle/graal) - GraalVM compiles applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀
