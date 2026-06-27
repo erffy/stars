@@ -329,6 +329,7 @@
 
 ## Shell 
 
+- [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Pixel perfect icon theme for Linux
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 - [osm0sis/AnyKernel3](https://github.com/osm0sis/AnyKernel3) - AnyKernel, Evolved
 - [dracut-ng/dracut](https://github.com/dracut-ng/dracut) - dracut - the event driven initramfs infrastructure
