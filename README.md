@@ -266,6 +266,7 @@
 
 ## Python 
 
+- [castlabs/electron-releases](https://github.com/castlabs/electron-releases) - Castlabs Electron for Content Security
 - [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar) - Linux device manager for Logitech devices
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [MegalithOfficial/sage](https://github.com/MegalithOfficial/sage) - Lightweight, privacy-first content moderation model for chat and roleplay.
