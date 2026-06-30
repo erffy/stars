@@ -769,6 +769,7 @@
 
 ## others 
 
+- [galpt/infinity-scheduler](https://github.com/galpt/infinity-scheduler) - Asymptotic EMA CPU scheduler for fair and real-time tasks — inspired by the Limit concept in mathematics
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
 - [fork-maintainers/iceraven-browser](https://github.com/fork-maintainers/iceraven-browser) - Iceraven Browser
 - [wrymt/darkly-gtk](https://github.com/wrymt/darkly-gtk) - Darkly GTK theme
