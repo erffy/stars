@@ -330,6 +330,7 @@
 
 ## Shell 
 
+- [galpt/infinity-scheduler](https://github.com/galpt/infinity-scheduler) - Asymptotic EMA CPU scheduler for fair and real-time tasks — inspired by the Limit concept in mathematics
 - [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Pixel perfect icon theme for Linux
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 - [osm0sis/AnyKernel3](https://github.com/osm0sis/AnyKernel3) - AnyKernel, Evolved
