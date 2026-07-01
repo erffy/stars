@@ -992,6 +992,7 @@
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 ## security 
 
@@ -1188,7 +1189,6 @@
 - [karlseguin/websocket.zig](https://github.com/karlseguin/websocket.zig) - A websocket implementation for zig
 - [erffy/zig-waybar-contrib](https://github.com/erffy/zig-waybar-contrib) - ⚡ High-performance Waybar modules written in Zig for efficient system monitoring
 - [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 ## zsh 
 
