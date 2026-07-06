@@ -243,6 +243,7 @@
 
 ## Others 
 
+- [Neutron-Toolchains/clang-build-catalogue](https://github.com/Neutron-Toolchains/clang-build-catalogue) - Uhh, a repo where Neutron clang tc builds will be released and build details would be pushed
 - [zylhdrXP/FleurX-Release](https://github.com/zylhdrXP/FleurX-Release) - 
 - [nicoth-in/Dark-Space-Theme](https://github.com/nicoth-in/Dark-Space-Theme) - Firefox Theme
 - [erffy/zix](https://github.com/erffy/zix) - A fast, lightweight, and powerful Zig version manager.
