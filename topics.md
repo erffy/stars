@@ -776,6 +776,7 @@
 
 ## others 
 
+- [Neutron-Toolchains/clang-build-catalogue](https://github.com/Neutron-Toolchains/clang-build-catalogue) - Uhh, a repo where Neutron clang tc builds will be released and build details would be pushed
 - [TuncorReUnion/TLAC-MODERN-LOCAL-ANTI-CHEAT-REUNIONED](https://github.com/TuncorReUnion/TLAC-MODERN-LOCAL-ANTI-CHEAT-REUNIONED) - This Anti-Cheat is local server based and fully open source. it's user space
 - [galpt/infinity-scheduler](https://github.com/galpt/infinity-scheduler) - Asymptotic EMA CPU scheduler for fair and real-time tasks — inspired by the Limit concept in mathematics
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
