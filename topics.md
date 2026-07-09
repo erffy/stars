@@ -792,7 +792,7 @@
 - [waydroid-helper/waydroid-helper](https://github.com/waydroid-helper/waydroid-helper) - 
 - [Neutron-Toolchains/clang-build-catalogue](https://github.com/Neutron-Toolchains/clang-build-catalogue) - Uhh, a repo where Neutron clang tc builds will be released and build details would be pushed
 - [TuncorReUnion/TLAC-MODERN-LOCAL-ANTI-CHEAT-REUNIONED](https://github.com/TuncorReUnion/TLAC-MODERN-LOCAL-ANTI-CHEAT-REUNIONED) - This Anti-Cheat is local server based and fully open source. it's user space
-- [galpt/infinity-scheduler](https://github.com/galpt/infinity-scheduler) - Asymptotic EMA CPU scheduler for fair and real-time tasks — inspired by the Limit concept in mathematics
+- [galpt/infinity-scheduler](https://github.com/galpt/infinity-scheduler) - Limit-inspired asymptotic EMA CPU-GPU scheduler
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
 - [fork-maintainers/iceraven-browser](https://github.com/fork-maintainers/iceraven-browser) - Iceraven Browser
 - [wrymt/darkly-gtk](https://github.com/wrymt/darkly-gtk) - Darkly GTK theme
@@ -805,7 +805,7 @@
 - [intel/intel-lpmd](https://github.com/intel/intel-lpmd) - 
 - [CachyOS/chwd](https://github.com/CachyOS/chwd) - Hardware Detection and Configuration for CachyOS
 - [CaptainSP/animecix-desktop-2](https://github.com/CaptainSP/animecix-desktop-2) - 
-- [vercel-labs/zero-native](https://github.com/vercel-labs/zero-native) - Build desktop + mobile apps with Zig and web UI
+- [vercel-labs/native](https://github.com/vercel-labs/native) - Toolkit for building native desktop apps
 - [Korthos-Software/low_latency_layer](https://github.com/Korthos-Software/low_latency_layer) - Vulkan layer for hardware agnostic input latency reduction
 - [intel/thermal_daemon](https://github.com/intel/thermal_daemon) - Thermal daemon for IA
 - [gtk-rs/gtk4-rs](https://github.com/gtk-rs/gtk4-rs) - Rust bindings of GTK 4
@@ -884,7 +884,6 @@
 - [slopjs/slopjs](https://github.com/slopjs/slopjs) - 
 - [salvogiangri/UN1CA](https://github.com/salvogiangri/UN1CA) - Work-in-progress custom firmware for Samsung Galaxy devices.
 - [j-hc/zygisk-detach](https://github.com/j-hc/zygisk-detach) - Zygisk module to detach installed apps from Play Store, hooking binder
-- [kreatoo/bouquet](https://github.com/kreatoo/bouquet) - Fully declarative Kubernetes configuration which includes multiple services and tooling
 - [kreatoo/cv-template](https://github.com/kreatoo/cv-template) - Kreato's CV template (also known as the worlds most overengineered CV), using Nix, LaTeX and GitHub Actions
 - [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
