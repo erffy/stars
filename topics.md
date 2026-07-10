@@ -140,6 +140,7 @@
 - [web](#web)
 - [webapp](#webapp)
 - [windows](#windows)
+- [workflow](#workflow)
 - [youtube](#youtube)
 - [zig](#zig)
 - [zsh](#zsh)
@@ -1188,6 +1189,10 @@
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
+
+## workflow 
+
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
 ## youtube 
 
