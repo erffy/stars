@@ -101,6 +101,7 @@
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 - [uazo/cromite](https://github.com/uazo/cromite) - Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser!
+- [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [PancakeTAS/lsfg-vk](https://github.com/PancakeTAS/lsfg-vk) - Lossless Scaling Frame Generation on Linux
 - [zjeffer/split-monitor-workspaces](https://github.com/zjeffer/split-monitor-workspaces) - A small Hyprland plugin to provide awesome-like workspace behavior
 - [kupiqu/SierraBreezeEnhanced](https://github.com/kupiqu/SierraBreezeEnhanced) - Originally a fork of BreezeEnhanced to make it (arguably) more minimalistic and informative
@@ -252,7 +253,6 @@
 - [erffy/zix](https://github.com/erffy/zix) - A fast, lightweight, and powerful Zig version manager.
 - [erffy/zig-sysinfo](https://github.com/erffy/zig-sysinfo) - A library that retrieves system information
 - [jishnu-kv/WinUI-3-Apps-List](https://github.com/jishnu-kv/WinUI-3-Apps-List) - A curated collection of over 500+ apps that embrace the WinUI 3 Design
-- [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [erffy/zig-waybar-contrib](https://github.com/erffy/zig-waybar-contrib) - ⚡ High-performance Waybar modules written in Zig for efficient system monitoring
 
 ## PHP 
