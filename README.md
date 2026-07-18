@@ -45,6 +45,7 @@
 
 ## C 
 
+- [RiProG-id/Better-Kernel-Tweaks](https://github.com/RiProG-id/Better-Kernel-Tweaks) - The optimization module is designed to improve the efficiency of the Android kernel, ensuring increased stability.
 - [IO-ZetZor/Visor-BootManager](https://github.com/IO-ZetZor/Visor-BootManager) - A minimal, fast, graphical UEFI boot manager written in C. no external dependencies — just a config file :)
 - [OISF/suricata](https://github.com/OISF/suricata) - Suricata is a network Intrusion Detection System, Intrusion Prevention System and Network Security Monitoring engine developed by the OISF and the Suricata community.
 - [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
@@ -88,6 +89,7 @@
 
 ## C++ 
 
+- [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [RohitKushvaha01/TaskManager](https://github.com/RohitKushvaha01/TaskManager) - A Task Manager for android
 - [redbith/espunix](https://github.com/redbith/espunix) - A small unix copy for esp32-s3
 - [Bali10050/Darkly](https://github.com/Bali10050/Darkly) - Forked from the lightly theme, this style brings a fresh and unique look to your applications
@@ -218,7 +220,7 @@
 - [FossifyOrg/Messages](https://github.com/FossifyOrg/Messages) - An easy and quick way of managing SMS and MMS messages without ads.
 - [FossifyOrg/Clock](https://github.com/FossifyOrg/Clock) - Combination of a beautiful clock with widget, alarm, stopwatch & timer, no ads
 - [pass-with-high-score/blockads-android](https://github.com/pass-with-high-score/blockads-android) - Block ads system-wide on Android using local VPN-based DNS filtering. No root needed. No data collection.
-- [rukamori/ArchiveTune](https://github.com/rukamori/ArchiveTune) - The Cutest Material 3 Expressive Music Player With Support Local File and Youtube Music for Android.
+- [rukamori/ArchiveTune](https://github.com/rukamori/ArchiveTune) - 🌸 The Cutest Music Player With Support Local File and Youtube Music for Android!
 - [thedjchi/Shizuku](https://github.com/thedjchi/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 - [PixelPlayerHQ/PixelPlayer](https://github.com/PixelPlayerHQ/PixelPlayer) - privacy-first Android music player built with Material 3 Expressive. Play offline, sync lyrics, fine-tune with equalizer presets, and cast to your devices.
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
@@ -304,7 +306,6 @@
 - [eminence/procfs](https://github.com/eminence/procfs) - Rust library for reading the Linux procfs filesystem
 - [Relm4/Relm4](https://github.com/Relm4/Relm4) - Build truly native applications with ease!
 - [gtk-rs/gtk4-rs](https://github.com/gtk-rs/gtk4-rs) - Rust bindings of GTK 4
-- [Tools-cx-app/meta-magic_mount-rs](https://github.com/Tools-cx-app/meta-magic_mount-rs) - An implementation of a metamodule using Magic Mount, Based on MKSU, Template is from meta-overlay.
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
 - [orhun/kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
 - [MegalithOfficial/Zinc](https://github.com/MegalithOfficial/Zinc) - Zig toolchain management and ZLS integration for Zed, inspired by vscode-zig.
@@ -340,6 +341,7 @@
 
 ## Shell 
 
+- [c0d3h01/CoreTaskOptimizer](https://github.com/c0d3h01/CoreTaskOptimizer) - Android module that tunes CPU affinity, scheduler priorities, and I/O policies.
 - [NotZeetaa/YAKT](https://github.com/NotZeetaa/YAKT) - Yet Another Kernel Tweaker. A Magisk module to Tweak your Kernel parameters
 - [reiryuki/One-UI-Core-Magisk-Module](https://github.com/reiryuki/One-UI-Core-Magisk-Module) - 
 - [Nigel1992/Waydroid-Advanced-Manager](https://github.com/Nigel1992/Waydroid-Advanced-Manager) - 🚀 The ultimate all-in-one Bash CLI toolkit for Waydroid — start/stop, install APKs, manage apps, transfer files, capture screenshots, record screen, view logcat, freeze bloatware, change display setti
@@ -383,6 +385,7 @@
 
 ## TypeScript 
 
+- [Kobii-git/rackpad](https://github.com/Kobii-git/rackpad) - Self-hosted infrastructure inventory and operations for homelabs and labs: racks, devices, ports, cables, IPAM, VLANs, WiFi, compute, discovery, monitoring, reports, and topology visualization.
 - [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis) - Open-source desktop SQL workspace for PostgreSQL, MySQL/MariaDB, SQLite and 13+ more databases like DuckDB, ClickHouse, Redis and Firestore. Built-in MCP server for Claude, Cursor and Devin, SQL noteb
 - [CaptainSP/animecix-desktop-2](https://github.com/CaptainSP/animecix-desktop-2) - 
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - TypeScript & JavaScript ORM for Node.js — supports PostgreSQL, MySQL, MariaDB, SQLite, SQL Server, Oracle, and more.
@@ -428,6 +431,7 @@
 
 ## Vue 
 
+- [Tools-cx-app/meta-magic_mount-rs](https://github.com/Tools-cx-app/meta-magic_mount-rs) - An implementation of a metamodule using Magic Mount, Based on MKSU, Template is from meta-overlay.
 - [spacealtctrl/microg_installer_revived_again](https://github.com/spacealtctrl/microg_installer_revived_again) - Promote microG GmsCore, GsfProxy, Companion/Play Store and MapsV1 to system with privileged permissions
 - [AkberJag/portfolio-template](https://github.com/AkberJag/portfolio-template) - A fully customizable portfolio website template built using Vue.js and Tailwind CSS.
 - [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
