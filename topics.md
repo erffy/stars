@@ -16,6 +16,7 @@
 - [backend](#backend)
 - [bash](#bash)
 - [c](#c)
+- [c-plus-plus](#c-plus-plus)
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
@@ -159,6 +160,7 @@
 
 ## android 
 
+- [c0d3h01/CoreTaskOptimizer](https://github.com/c0d3h01/CoreTaskOptimizer) - Android module that tunes CPU affinity, scheduler priorities, and I/O policies.
 - [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
 - [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
 - [FeDeveloper95/Game-Hub](https://github.com/FeDeveloper95/Game-Hub) - A simple launcher with material 3 expressive ui for all your games.
@@ -257,6 +259,10 @@
 - [bus1/dbus-broker](https://github.com/bus1/dbus-broker) - Linux D-Bus Message Broker
 - [lite-xl/lite-xl](https://github.com/lite-xl/lite-xl) - A lightweight text editor written in Lua
 
+## c-plus-plus 
+
+- [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
+
 ## chatgpt 
 
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
@@ -312,6 +318,7 @@
 
 ## cpp 
 
+- [c0d3h01/CoreTaskOptimizer](https://github.com/c0d3h01/CoreTaskOptimizer) - Android module that tunes CPU affinity, scheduler priorities, and I/O policies.
 - [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 
@@ -371,6 +378,7 @@
 
 ## docker 
 
+- [Kobii-git/rackpad](https://github.com/Kobii-git/rackpad) - Self-hosted infrastructure inventory and operations for homelabs and labs: racks, devices, ports, cables, IPAM, VLANs, WiFi, compute, discovery, monitoring, reports, and topology visualization.
 - [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker) - Speedtest Tracker is a self-hosted application that monitors the performance and uptime of your internet connection.
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [ChrispyBacon-dev/DockFlare](https://github.com/ChrispyBacon-dev/DockFlare) - DockFlare: Automate Cloudflare Tunnels with Docker Labels
@@ -572,7 +580,7 @@
 
 - [aleksey-saenko/MusicRecognizer](https://github.com/aleksey-saenko/MusicRecognizer) - An open-source Android app for music recognition that integrates AudD, ACRCloud, and Shazam to perform song identification.
 - [pass-with-high-score/blockads-android](https://github.com/pass-with-high-score/blockads-android) - Block ads system-wide on Android using local VPN-based DNS filtering. No root needed. No data collection.
-- [rukamori/ArchiveTune](https://github.com/rukamori/ArchiveTune) - The Cutest Material 3 Expressive Music Player With Support Local File and Youtube Music for Android.
+- [rukamori/ArchiveTune](https://github.com/rukamori/ArchiveTune) - 🌸 The Cutest Music Player With Support Local File and Youtube Music for Android!
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
 
 ## kotlin 
@@ -582,7 +590,7 @@
 - [FossifyOrg/Messages](https://github.com/FossifyOrg/Messages) - An easy and quick way of managing SMS and MMS messages without ads.
 - [FossifyOrg/Clock](https://github.com/FossifyOrg/Clock) - Combination of a beautiful clock with widget, alarm, stopwatch & timer, no ads
 - [pass-with-high-score/blockads-android](https://github.com/pass-with-high-score/blockads-android) - Block ads system-wide on Android using local VPN-based DNS filtering. No root needed. No data collection.
-- [rukamori/ArchiveTune](https://github.com/rukamori/ArchiveTune) - The Cutest Material 3 Expressive Music Player With Support Local File and Youtube Music for Android.
+- [rukamori/ArchiveTune](https://github.com/rukamori/ArchiveTune) - 🌸 The Cutest Music Player With Support Local File and Youtube Music for Android!
 - [lihenggui/blocker](https://github.com/lihenggui/blocker) - Utilize an integrated firewall to manage application components.
 - [kuvasz-uptime/kuvasz](https://github.com/kuvasz-uptime/kuvasz) - Kuvasz (pronounce as [ˈkuvɒs]) is an open-source uptime and SSL monitoring service, with multiple notification channels, status pages, IAC support via YAML, Prometheus integration, a complete REST API
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
@@ -608,7 +616,9 @@
 
 ## linux 
 
+- [c0d3h01/CoreTaskOptimizer](https://github.com/c0d3h01/CoreTaskOptimizer) - Android module that tunes CPU affinity, scheduler priorities, and I/O policies.
 - [casualsnek/waydroid_script](https://github.com/casualsnek/waydroid_script) - Python Script to  add OpenGapps, Magisk, libhoudini translation library and libndk translation library to waydroid !
+- [galpt/infinity-scheduler](https://github.com/galpt/infinity-scheduler) - Limit-inspired asymptotic EMA CPU-GPU scheduler
 - [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Pixel perfect icon theme for Linux
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
@@ -685,7 +695,7 @@
 ## material-design 
 
 - [FeDeveloper95/Game-Hub](https://github.com/FeDeveloper95/Game-Hub) - A simple launcher with material 3 expressive ui for all your games.
-- [rukamori/ArchiveTune](https://github.com/rukamori/ArchiveTune) - The Cutest Material 3 Expressive Music Player With Support Local File and Youtube Music for Android.
+- [rukamori/ArchiveTune](https://github.com/rukamori/ArchiveTune) - 🌸 The Cutest Music Player With Support Local File and Youtube Music for Android!
 - [edelvarden/material-fox-updated](https://github.com/edelvarden/material-fox-updated) - 🦊 Firefox user CSS theme looks similar to Chrome
 - [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
 - [InioX/matugen](https://github.com/InioX/matugen) - A cross-platform material you and base16 color generation tool
@@ -736,7 +746,7 @@
 
 - [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic) - A cross-platform music app using YouTube Music for backend
 - [aleksey-saenko/MusicRecognizer](https://github.com/aleksey-saenko/MusicRecognizer) - An open-source Android app for music recognition that integrates AudD, ACRCloud, and Shazam to perform song identification.
-- [rukamori/ArchiveTune](https://github.com/rukamori/ArchiveTune) - The Cutest Material 3 Expressive Music Player With Support Local File and Youtube Music for Android.
+- [rukamori/ArchiveTune](https://github.com/rukamori/ArchiveTune) - 🌸 The Cutest Music Player With Support Local File and Youtube Music for Android!
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 
 ## mysql 
@@ -799,6 +809,7 @@
 
 ## others 
 
+- [RiProG-id/Better-Kernel-Tweaks](https://github.com/RiProG-id/Better-Kernel-Tweaks) - The optimization module is designed to improve the efficiency of the Android kernel, ensuring increased stability.
 - [IO-ZetZor/Visor-BootManager](https://github.com/IO-ZetZor/Visor-BootManager) - A minimal, fast, graphical UEFI boot manager written in C. no external dependencies — just a config file :)
 - [RohitKushvaha01/TaskManager](https://github.com/RohitKushvaha01/TaskManager) - A Task Manager for android
 - [NotZeetaa/YAKT](https://github.com/NotZeetaa/YAKT) - Yet Another Kernel Tweaker. A Magisk module to Tweak your Kernel parameters
@@ -808,7 +819,6 @@
 - [waydroid-helper/waydroid-helper](https://github.com/waydroid-helper/waydroid-helper) - 
 - [Neutron-Toolchains/clang-build-catalogue](https://github.com/Neutron-Toolchains/clang-build-catalogue) - Uhh, a repo where Neutron clang tc builds will be released and build details would be pushed
 - [TuncorReUnion/TLAC-MODERN-LOCAL-ANTI-CHEAT-REUNIONED](https://github.com/TuncorReUnion/TLAC-MODERN-LOCAL-ANTI-CHEAT-REUNIONED) - This Anti-Cheat is local server based and fully open source. it's user space
-- [galpt/infinity-scheduler](https://github.com/galpt/infinity-scheduler) - Limit-inspired asymptotic EMA CPU-GPU scheduler
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
 - [fork-maintainers/iceraven-browser](https://github.com/fork-maintainers/iceraven-browser) - Iceraven Browser
 - [wrymt/darkly-gtk](https://github.com/wrymt/darkly-gtk) - Darkly GTK theme
@@ -991,6 +1001,7 @@
 
 ## react 
 
+- [Kobii-git/rackpad](https://github.com/Kobii-git/rackpad) - Self-hosted infrastructure inventory and operations for homelabs and labs: racks, devices, ports, cables, IPAM, VLANs, WiFi, compute, discovery, monitoring, reports, and topology visualization.
 - [LettuceAI/app](https://github.com/LettuceAI/app) - Privacy-first AI roleplay & BYOK (Bring Your Own Key) & roleplaying, companion and storytelling app with long-term memory, custom characters, and 20+ providers. Android, Windows, macOS, Linux. Support
 - [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard, primarily used by smaller private servers
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
@@ -1049,6 +1060,7 @@
 
 ## self-hosted 
 
+- [Kobii-git/rackpad](https://github.com/Kobii-git/rackpad) - Self-hosted infrastructure inventory and operations for homelabs and labs: racks, devices, ports, cables, IPAM, VLANs, WiFi, compute, discovery, monitoring, reports, and topology visualization.
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner written in Go. With notifications, history, export to Grafana
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
@@ -1081,6 +1093,7 @@
 
 ## sqlite 
 
+- [Kobii-git/rackpad](https://github.com/Kobii-git/rackpad) - Self-hosted infrastructure inventory and operations for homelabs and labs: racks, devices, ports, cables, IPAM, VLANs, WiFi, compute, discovery, monitoring, reports, and topology visualization.
 - [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis) - Open-source desktop SQL workspace for PostgreSQL, MySQL/MariaDB, SQLite and 13+ more databases like DuckDB, ClickHouse, Redis and Firestore. Built-in MCP server for Claude, Cursor and Devin, SQL noteb
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - TypeScript & JavaScript ORM for Node.js — supports PostgreSQL, MySQL, MariaDB, SQLite, SQL Server, Oracle, and more.
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
