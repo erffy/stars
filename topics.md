@@ -103,6 +103,7 @@
 - [osint-tools](#osint-tools)
 - [others](#others)
 - [package-manager](#package-manager)
+- [phishing](#phishing)
 - [php](#php)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
@@ -123,6 +124,7 @@
 - [self-hosted](#self-hosted)
 - [server](#server)
 - [shell](#shell)
+- [software](#software)
 - [sql](#sql)
 - [sqlite](#sqlite)
 - [svelte](#svelte)
@@ -940,6 +942,10 @@
 
 - [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
 
+## phishing 
+
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
+
 ## php 
 
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
@@ -997,6 +1003,7 @@
 
 ## python 
 
+- [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) - An AI-boost cross-platform multi-protocol fluent-design concurrent downloader built with Python & Qt.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [megadose/holehe](https://github.com/megadose/holehe) - holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
 - [ChrispyBacon-dev/DockFlare](https://github.com/ChrispyBacon-dev/DockFlare) - DockFlare: Automate Cloudflare Tunnels with Docker Labels
@@ -1007,6 +1014,7 @@
 
 ## qt 
 
+- [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) - An AI-boost cross-platform multi-protocol fluent-design concurrent downloader built with Python & Qt.
 - [quickshell-mirror/quickshell](https://github.com/quickshell-mirror/quickshell) - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11
 - [rcalixte/libqt6zig](https://github.com/rcalixte/libqt6zig) - Qt 6 for Zig
 - [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
@@ -1014,6 +1022,7 @@
 
 ## react 
 
+- [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) - An AI-boost cross-platform multi-protocol fluent-design concurrent downloader built with Python & Qt.
 - [Kobii-git/rackpad](https://github.com/Kobii-git/rackpad) - Self-hosted infrastructure inventory and operations for homelabs and labs: racks, devices, ports, cables, IPAM, VLANs, WiFi, compute, discovery, monitoring, reports, and topology visualization.
 - [LettuceAI/app](https://github.com/LettuceAI/app) - Privacy-first AI roleplay & BYOK (Bring Your Own Key) & roleplaying, companion and storytelling app with long-term memory, custom characters, and 20+ providers. Android, Windows, macOS, Linux. Support
 - [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard, primarily used by smaller private servers
@@ -1100,6 +1109,10 @@
 
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
+
+## software 
+
+- [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) - An AI-boost cross-platform multi-protocol fluent-design concurrent downloader built with Python & Qt.
 
 ## sql 
 
