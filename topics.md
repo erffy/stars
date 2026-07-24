@@ -399,6 +399,7 @@
 
 ## docker 
 
+- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [Kobii-git/rackpad](https://github.com/Kobii-git/rackpad) - Self-hosted infrastructure inventory and operations for homelabs and labs: racks, devices, ports, cables, IPAM, VLANs, WiFi, compute, discovery, monitoring, reports, and topology visualization.
 - [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker) - Speedtest Tracker is a self-hosted application that monitors the performance and uptime of your internet connection.
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
@@ -502,6 +503,7 @@
 
 ## go 
 
+- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
 - [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates
@@ -511,6 +513,7 @@
 
 ## golang 
 
+- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [pass-with-high-score/blockads-android](https://github.com/pass-with-high-score/blockads-android) - Block ads system-wide on Android using local VPN-based DNS filtering. No root needed. No data collection.
@@ -625,6 +628,7 @@
 
 ## kubernetes 
 
+- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 
@@ -841,6 +845,8 @@
 
 ## others 
 
+- [Diegovsky/riff](https://github.com/Diegovsky/riff) - Native Spotify client for the GNOME desktop.
+- [sonic-liberation/spotube-plugin-spotify](https://github.com/sonic-liberation/spotube-plugin-spotify) - Unofficial Spotify metadata plugin for Spotube
 - [BraveOPotato/FckSignups](https://github.com/BraveOPotato/FckSignups) - A list of tools that are open-source, in-browser, and require no-signups!
 - [Spotui/Spotui](https://github.com/Spotui/Spotui) - Spotify clone with deep integration
 - [RiProG-id/Better-Kernel-Tweaks](https://github.com/RiProG-id/Better-Kernel-Tweaks) - The optimization module is designed to improve the efficiency of the Android kernel, ensuring increased stability.
