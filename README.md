@@ -89,7 +89,6 @@
 
 ## C++ 
 
-- [sonic-liberation/spotube-plugin-spotify](https://github.com/sonic-liberation/spotube-plugin-spotify) - Unofficial Spotify metadata plugin for Spotube
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [RohitKushvaha01/TaskManager](https://github.com/RohitKushvaha01/TaskManager) - A Task Manager for android
 - [redbith/espunix](https://github.com/redbith/espunix) - A small unix copy for esp32-s3
@@ -139,6 +138,7 @@
 
 ## Go 
 
+- [yusing/godoxy](https://github.com/yusing/godoxy) - High-performance reverse proxy and container orchestrator for self-hosters
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.
@@ -194,6 +194,7 @@
 
 ## JavaScript 
 
+- [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [gnmyt/MySpeed](https://github.com/gnmyt/MySpeed) - A speed test analysis software that shows your internet speed for up to 30 days
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
 - [BrowserWorks/waterfox](https://github.com/BrowserWorks/waterfox) - The official Waterfox 💧 source code repository
@@ -213,6 +214,7 @@
 
 ## Kotlin 
 
+- [sonic-liberation/spotube-plugin-spotify](https://github.com/sonic-liberation/spotube-plugin-spotify) - Unofficial Spotify metadata plugin for Spotube
 - [Spotui/Spotui](https://github.com/Spotui/Spotui) - Spotify clone with deep integration
 - [FeDeveloper95/Game-Hub](https://github.com/FeDeveloper95/Game-Hub) - A simple launcher with material 3 expressive ui for all your games.
 - [fork-maintainers/iceraven-browser](https://github.com/fork-maintainers/iceraven-browser) - Iceraven Browser
@@ -274,12 +276,14 @@
 
 ## PowerShell 
 
+- [zoicware/RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI) - Force Remove Copilot, Recall and More in Windows 11
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [ntdevlabs/nano11](https://github.com/ntdevlabs/nano11) - Script to build possibly the most trimmed-down Windows 11 experience.
 - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
 
 ## Python 
 
+- [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Fluxer-py/fluxer.py](https://github.com/Fluxer-py/fluxer.py) - A Python API Wrapper for Fluxer App.
 - [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) - An AI-boost cross-platform multi-protocol fluent-design concurrent downloader built with Python & Qt.
 - [waydroid-helper/waydroid-helper](https://github.com/waydroid-helper/waydroid-helper) - 
@@ -309,6 +313,7 @@
 
 ## Rust 
 
+- [iffse/pay-respects](https://github.com/iffse/pay-respects) - Command suggestions, command-not-found and thefuck replacement written in Rust
 - [Diegovsky/riff](https://github.com/Diegovsky/riff) - Native Spotify client for the GNOME desktop.
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [CachyOS/chwd](https://github.com/CachyOS/chwd) - Hardware Detection and Configuration for CachyOS
