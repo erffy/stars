@@ -56,6 +56,7 @@
 - [frontend](#frontend)
 - [game-development](#game-development)
 - [game-engine](#game-engine)
+- [gaming](#gaming)
 - [generative-ai](#generative-ai)
 - [git](#git)
 - [github](#github)
@@ -261,7 +262,7 @@
 ## awesome-list 
 
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
-- [jishnu-kv/WinUI-3-Apps-List](https://github.com/jishnu-kv/WinUI-3-Apps-List) - A curated collection of over 500+ apps that embrace the WinUI 3 Design
+- [jishnu-kv/WinUI-3-Apps-List](https://github.com/jishnu-kv/WinUI-3-Apps-List) - A curated collection of over 800+ apps that embrace the WinUI 3 Design
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included!
 
 ## backend 
@@ -354,6 +355,7 @@
 
 ## csharp 
 
+- [itsfatduck/optimizerDuck](https://github.com/itsfatduck/optimizerDuck) - Free, open-source Windows optimization tool for performance, privacy, and simplicity.
 - [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
 
 ## css 
@@ -382,7 +384,7 @@
 
 ## design 
 
-- [jishnu-kv/WinUI-3-Apps-List](https://github.com/jishnu-kv/WinUI-3-Apps-List) - A curated collection of over 500+ apps that embrace the WinUI 3 Design
+- [jishnu-kv/WinUI-3-Apps-List](https://github.com/jishnu-kv/WinUI-3-Apps-List) - A curated collection of over 800+ apps that embrace the WinUI 3 Design
 - [CapnKitten/Material-Discord](https://github.com/CapnKitten/Material-Discord) - Material design theme for Discord
 
 ## developer-tools 
@@ -438,6 +440,7 @@
 
 ## dotnet 
 
+- [itsfatduck/optimizerDuck](https://github.com/itsfatduck/optimizerDuck) - Free, open-source Windows optimization tool for performance, privacy, and simplicity.
 - [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server
 
 ## electron 
@@ -502,6 +505,10 @@
 ## game-engine 
 
 - [VertexF/Void](https://github.com/VertexF/Void) - a 3D vulkan game engine which is leveraging new graphics techniques to make a game.
+
+## gaming 
+
+- [itsfatduck/optimizerDuck](https://github.com/itsfatduck/optimizerDuck) - Free, open-source Windows optimization tool for performance, privacy, and simplicity.
 
 ## generative-ai 
 
@@ -848,6 +855,7 @@
 
 ## open-source 
 
+- [itsfatduck/optimizerDuck](https://github.com/itsfatduck/optimizerDuck) - Free, open-source Windows optimization tool for performance, privacy, and simplicity.
 - [AdventDevInc/kudu](https://github.com/AdventDevInc/kudu) - Free Windows, Mac and Linux cleaner, scanner, and more.
 - [FossifyOrg/Messages](https://github.com/FossifyOrg/Messages) - An easy and quick way of managing SMS and MMS messages without ads.
 - [FossifyOrg/Clock](https://github.com/FossifyOrg/Clock) - Combination of a beautiful clock with widget, alarm, stopwatch & timer, no ads
@@ -1021,6 +1029,7 @@
 
 ## privacy 
 
+- [itsfatduck/optimizerDuck](https://github.com/itsfatduck/optimizerDuck) - Free, open-source Windows optimization tool for performance, privacy, and simplicity.
 - [zoicware/RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI) - Force Remove Copilot, Recall and More in Windows 11
 - [AdventDevInc/kudu](https://github.com/AdventDevInc/kudu) - Free Windows, Mac and Linux cleaner, scanner, and more.
 - [FaFre/WebLibre](https://github.com/FaFre/WebLibre) - A libre Android browser built from scratch on Gecko. Privacy by default, powerful tab containers, and a local-first search engine.
@@ -1263,7 +1272,7 @@
 ## ui 
 
 - [capy-ui/capy](https://github.com/capy-ui/capy) - 💻Build one codebase and get native UI on Windows, Linux and Web
-- [jishnu-kv/WinUI-3-Apps-List](https://github.com/jishnu-kv/WinUI-3-Apps-List) - A curated collection of over 500+ apps that embrace the WinUI 3 Design
+- [jishnu-kv/WinUI-3-Apps-List](https://github.com/jishnu-kv/WinUI-3-Apps-List) - A curated collection of over 800+ apps that embrace the WinUI 3 Design
 
 ## video 
 
@@ -1301,6 +1310,7 @@
 
 ## windows 
 
+- [itsfatduck/optimizerDuck](https://github.com/itsfatduck/optimizerDuck) - Free, open-source Windows optimization tool for performance, privacy, and simplicity.
 - [zoicware/RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI) - Force Remove Copilot, Recall and More in Windows 11
 - [anandnet/Harmony-Music](https://github.com/anandnet/Harmony-Music) - A cross platform App for streaming Music
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.
