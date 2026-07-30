@@ -187,7 +187,6 @@
 - [LeavesMC/Leaves](https://github.com/LeavesMC/Leaves) - Fork of Paper aimed at repairing broken vanilla properties.
 - [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
-- [JingMatrix/Vector](https://github.com/JingMatrix/Vector) - Modern Xposed Framework
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
 
 ## JavaScript 
@@ -240,6 +239,7 @@
 - [romanvht/ByeByeDPI](https://github.com/romanvht/ByeByeDPI) - Приложение локально запускает ByeDPI и перенаправляет весь трафик через него
 - [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next) - An advanced Kernel based root solution for Android
 - [d4rken-org/sdmaid-se](https://github.com/d4rken-org/sdmaid-se) - SD Maid 2/SE is Android's most thorough cleaning tool.
+- [JingMatrix/Vector](https://github.com/JingMatrix/Vector) - Modern Xposed Framework
 - [SanmerApps/PI](https://github.com/SanmerApps/PI) - PackageInstaller
 - [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android
 - [Droid-ify/client](https://github.com/Droid-ify/client) - Clutterfree F-Droid client
@@ -247,6 +247,7 @@
 
 ## Lua 
 
+- [ntop/ntopng](https://github.com/ntop/ntopng) - Web-based Traffic and Cybersecurity Network Traffic Monitoring
 - [zjeffer/split-monitor-workspaces](https://github.com/zjeffer/split-monitor-workspaces) - A small lua package for Hyprland to provide awesome-like workspace behavior
 - [lite-xl/lite-xl](https://github.com/lite-xl/lite-xl) - A lightweight text editor written in Lua
 
@@ -314,6 +315,7 @@
 
 ## Rust 
 
+- [nubjs/nub](https://github.com/nubjs/nub) - The fast all-in-one Node.js toolkit
 - [iffse/pay-respects](https://github.com/iffse/pay-respects) - Command suggestions, command-not-found and thefuck replacement written in Rust
 - [Diegovsky/riff](https://github.com/Diegovsky/riff) - Native Spotify client for the GNOME desktop.
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
@@ -460,6 +462,7 @@
 
 ## Zig 
 
+- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 - [jiacai2050/zig-curl](https://github.com/jiacai2050/zig-curl) - Libcurl bindings for Zig
 - [sam701/zig-cli](https://github.com/sam701/zig-cli) - A simple package for building command line apps in Zig
 - [luxluth/goose](https://github.com/luxluth/goose) - A pure Zig D-Bus implementation
