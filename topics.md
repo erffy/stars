@@ -365,6 +365,7 @@
 
 ## cybersecurity 
 
+- [ntop/ntopng](https://github.com/ntop/ntopng) - Web-based Traffic and Cybersecurity Network Traffic Monitoring
 - [OISF/suricata](https://github.com/OISF/suricata) - Suricata is a network Intrusion Detection System, Intrusion Prevention System and Network Security Monitoring engine developed by the OISF and the Suricata community.
 
 ## dart 
@@ -412,6 +413,7 @@
 
 ## docker 
 
+- [ntop/ntopng](https://github.com/ntop/ntopng) - Web-based Traffic and Cybersecurity Network Traffic Monitoring
 - [HQarroum/docker-android](https://github.com/HQarroum/docker-android) - 🤖 A minimal and customizable Docker image running the Android emulator as a service.
 - [yusing/godoxy](https://github.com/yusing/godoxy) - High-performance reverse proxy and container orchestrator for self-hosters
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
@@ -659,6 +661,7 @@
 
 ## kubernetes 
 
+- [ntop/ntopng](https://github.com/ntop/ntopng) - Web-based Traffic and Cybersecurity Network Traffic Monitoring
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
@@ -844,6 +847,7 @@
 
 ## nodejs 
 
+- [nubjs/nub](https://github.com/nubjs/nub) - The fast all-in-one Node.js toolkit
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included!
 - [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard, primarily used by smaller private servers
@@ -1004,6 +1008,7 @@
 
 ## package-manager 
 
+- [nubjs/nub](https://github.com/nubjs/nub) - The fast all-in-one Node.js toolkit
 - [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
 
 ## phishing 
@@ -1353,6 +1358,7 @@
 
 ## zig 
 
+- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 - [jiacai2050/zig-curl](https://github.com/jiacai2050/zig-curl) - Libcurl bindings for Zig
 - [luxluth/goose](https://github.com/luxluth/goose) - A pure Zig D-Bus implementation
 - [ianprime0509/zig-gobject](https://github.com/ianprime0509/zig-gobject) - GObject bindings for Zig using GObject introspection
