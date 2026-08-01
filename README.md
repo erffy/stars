@@ -358,6 +358,7 @@
 
 ## Shell 
 
+- [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [HQarroum/docker-android](https://github.com/HQarroum/docker-android) - 🤖 A minimal and customizable Docker image running the Android emulator as a service.
 - [c0d3h01/CoreTaskOptimizer](https://github.com/c0d3h01/CoreTaskOptimizer) - Android module that tunes CPU affinity, scheduler priorities, and I/O policies.
 - [NotZeetaa/YAKT](https://github.com/NotZeetaa/YAKT) - Yet Another Kernel Tweaker. A Magisk module to Tweak your Kernel parameters
