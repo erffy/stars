@@ -45,6 +45,7 @@
 
 ## C 
 
+- [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
 - [RiProG-id/Better-Kernel-Tweaks](https://github.com/RiProG-id/Better-Kernel-Tweaks) - The optimization module is designed to improve the efficiency of the Android kernel, ensuring increased stability.
 - [IO-ZetZor/Visor-BootManager](https://github.com/IO-ZetZor/Visor-BootManager) - A minimal, fast, graphical UEFI boot manager written in C. no external dependencies — just a config file :)
 - [OISF/suricata](https://github.com/OISF/suricata) - Suricata is a network Intrusion Detection System, Intrusion Prevention System and Network Security Monitoring engine developed by the OISF and the Suricata community.
@@ -358,6 +359,7 @@
 
 ## Shell 
 
+- [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [HQarroum/docker-android](https://github.com/HQarroum/docker-android) - 🤖 A minimal and customizable Docker image running the Android emulator as a service.
 - [c0d3h01/CoreTaskOptimizer](https://github.com/c0d3h01/CoreTaskOptimizer) - Android module that tunes CPU affinity, scheduler priorities, and I/O policies.
