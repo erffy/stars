@@ -316,6 +316,7 @@
 
 ## Rust 
 
+- [MegalithOfficial/basalt-launcher](https://github.com/MegalithOfficial/basalt-launcher) - Minecraft launcher built with Rust and Tauri.
 - [nubjs/nub](https://github.com/nubjs/nub) - The fast all-in-one Node.js toolkit
 - [iffse/pay-respects](https://github.com/iffse/pay-respects) - Command suggestions, command-not-found and thefuck replacement written in Rust
 - [Diegovsky/riff](https://github.com/Diegovsky/riff) - Native Spotify client for the GNOME desktop.
