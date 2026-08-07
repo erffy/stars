@@ -790,7 +790,7 @@
 
 ## minecraft 
 
-- [MegalithOfficial/basalt-launcher](https://github.com/MegalithOfficial/basalt-launcher) - Minecraft launcher built with Rust and Tauri.
+- [MegalithOfficial/basalt-launcher](https://github.com/MegalithOfficial/basalt-launcher) - A Minecraft launcher where your worlds set the look. Modrinth and CurseForge, mod loaders, and imports from other launchers.
 - [EVV1E/waylandcraft](https://github.com/EVV1E/waylandcraft) - Wayland Compositor in Minecraft
 - [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
 - [pcal43/quicksort](https://github.com/pcal43/quicksort) - Minecraft mod.  Low-effort item sorting to keep your workshop organized.
@@ -1115,7 +1115,7 @@
 
 ## react 
 
-- [MegalithOfficial/basalt-launcher](https://github.com/MegalithOfficial/basalt-launcher) - Minecraft launcher built with Rust and Tauri.
+- [MegalithOfficial/basalt-launcher](https://github.com/MegalithOfficial/basalt-launcher) - A Minecraft launcher where your worlds set the look. Modrinth and CurseForge, mod loaders, and imports from other launchers.
 - [Venipa/ytmdesktop2](https://github.com/Venipa/ytmdesktop2) - Unofficial Youtube Music Desktop App, with Discord RPC & LastFM support.
 - [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) - An AI-boost cross-platform multi-protocol fluent-design concurrent downloader built with Python & Qt.
 - [Kobii-git/rackpad](https://github.com/Kobii-git/rackpad) - Self-hosted infrastructure inventory and operations for homelabs and labs: racks, devices, ports, cables, IPAM, VLANs, WiFi, compute, discovery, monitoring, reports, and topology visualization.
@@ -1140,7 +1140,7 @@
 
 ## rust 
 
-- [MegalithOfficial/basalt-launcher](https://github.com/MegalithOfficial/basalt-launcher) - Minecraft launcher built with Rust and Tauri.
+- [MegalithOfficial/basalt-launcher](https://github.com/MegalithOfficial/basalt-launcher) - A Minecraft launcher where your worlds set the look. Modrinth and CurseForge, mod loaders, and imports from other launchers.
 - [iffse/pay-respects](https://github.com/iffse/pay-respects) - Command suggestions, command-not-found and thefuck replacement written in Rust
 - [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis) - Open-source desktop SQL workspace for PostgreSQL, MySQL/MariaDB, SQLite and 15+ more databases like DuckDB, ClickHouse, Redis and Firestore. Built-in MCP server for Claude, Cursor and Devin, SQL noteb
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
@@ -1274,7 +1274,7 @@
 
 ## typescript 
 
-- [MegalithOfficial/basalt-launcher](https://github.com/MegalithOfficial/basalt-launcher) - Minecraft launcher built with Rust and Tauri.
+- [MegalithOfficial/basalt-launcher](https://github.com/MegalithOfficial/basalt-launcher) - A Minecraft launcher where your worlds set the look. Modrinth and CurseForge, mod loaders, and imports from other launchers.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [Venipa/ytmdesktop2](https://github.com/Venipa/ytmdesktop2) - Unofficial Youtube Music Desktop App, with Discord RPC & LastFM support.
 - [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis) - Open-source desktop SQL workspace for PostgreSQL, MySQL/MariaDB, SQLite and 15+ more databases like DuckDB, ClickHouse, Redis and Firestore. Built-in MCP server for Claude, Cursor and Devin, SQL noteb
