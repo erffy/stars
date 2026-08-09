@@ -1185,6 +1185,7 @@
 
 ## self-hosted 
 
+- [Studio-Saelix/sencho](https://github.com/Studio-Saelix/sencho) - Self-hosted Docker Compose management platform. For single or multi-host compose-first workflow.
 - [yusing/godoxy](https://github.com/yusing/godoxy) - High-performance reverse proxy and container orchestrator for self-hosters
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
