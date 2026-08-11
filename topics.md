@@ -901,6 +901,7 @@
 
 ## others 
 
+- [jp7677/dxvk-nvapi](https://github.com/jp7677/dxvk-nvapi) - Alternative NVAPI implementation on top of DXVK.
 - [bearinmindcat/ungoogled-chromium-android](https://github.com/bearinmindcat/ungoogled-chromium-android) - Android build for ungoogled-chromium
 - [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
 - [gnmyt/MySpeed](https://github.com/gnmyt/MySpeed) - A speed test analysis software that shows your internet speed for up to 30 days
