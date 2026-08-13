@@ -180,11 +180,12 @@
 
 ## android 
 
+- [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - server status & toolbox
 - [MorpheApp/morphe-patches](https://github.com/MorpheApp/morphe-patches) - Morphe Patches
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
 - [adil192/no_more_background](https://github.com/adil192/no_more_background) - A fire-and-forget program to stop Android apps from running in the background.
 - [HQarroum/docker-android](https://github.com/HQarroum/docker-android) - 🤖 A minimal and customizable Docker image running the Android emulator as a service.
-- [c0d3h01/CoreTaskOptimizer](https://github.com/c0d3h01/CoreTaskOptimizer) - Android module that tunes CPU affinity, scheduler priorities, and I/O policies.
+- [harusharu/CoreTaskOptimizer](https://github.com/harusharu/CoreTaskOptimizer) - Android module that tunes CPU affinity, scheduler priorities, and I/O policies.
 - [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
 - [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
 - [FeDeveloper95/Game-Hub](https://github.com/FeDeveloper95/Game-Hub) - A simple launcher with material 3 expressive ui for all your games.
@@ -356,7 +357,7 @@
 
 ## cpp 
 
-- [c0d3h01/CoreTaskOptimizer](https://github.com/c0d3h01/CoreTaskOptimizer) - Android module that tunes CPU affinity, scheduler priorities, and I/O policies.
+- [harusharu/CoreTaskOptimizer](https://github.com/harusharu/CoreTaskOptimizer) - Android module that tunes CPU affinity, scheduler priorities, and I/O policies.
 - [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 
@@ -376,6 +377,7 @@
 
 ## dart 
 
+- [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - server status & toolbox
 - [fluxerapp/flutter_client](https://github.com/fluxerapp/flutter_client) - Official Fluxer Mobile client built on the Flutter framework.
 
 ## database 
@@ -493,6 +495,7 @@
 
 ## flutter 
 
+- [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - server status & toolbox
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [anandnet/Harmony-Music](https://github.com/anandnet/Harmony-Music) - A cross platform App for streaming Music
 - [fluxerapp/flutter_client](https://github.com/fluxerapp/flutter_client) - Official Fluxer Mobile client built on the Flutter framework.
@@ -622,6 +625,7 @@
 
 ## ios 
 
+- [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - server status & toolbox
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.
 - [aptabase/aptabase](https://github.com/aptabase/aptabase) - ✨ Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps
@@ -690,7 +694,7 @@
 
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
 - [anandnet/Harmony-Music](https://github.com/anandnet/Harmony-Music) - A cross platform App for streaming Music
-- [c0d3h01/CoreTaskOptimizer](https://github.com/c0d3h01/CoreTaskOptimizer) - Android module that tunes CPU affinity, scheduler priorities, and I/O policies.
+- [harusharu/CoreTaskOptimizer](https://github.com/harusharu/CoreTaskOptimizer) - Android module that tunes CPU affinity, scheduler priorities, and I/O policies.
 - [casualsnek/waydroid_script](https://github.com/casualsnek/waydroid_script) - Python Script to  add OpenGapps, Magisk, libhoudini translation library and libndk translation library to waydroid !
 - [galpt/infinity-scheduler](https://github.com/galpt/infinity-scheduler) - CPU + GPU scheduler optimized for modern-day desktop interactivity
 - [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Pixel perfect icon theme for Linux
@@ -791,7 +795,7 @@
 
 ## minecraft 
 
-- [MegalithOfficial/basalt-launcher](https://github.com/MegalithOfficial/basalt-launcher) - A Minecraft launcher where your worlds set the look. Modrinth and CurseForge, mod loaders, and imports from other launchers.
+- [MegalithOfficial/basalt-launcher](https://github.com/MegalithOfficial/basalt-launcher) - A open source Minecraft launcher written in rust. Modrinth and CurseForge, mod loaders, and imports from other launchers.
 - [EVV1E/waylandcraft](https://github.com/EVV1E/waylandcraft) - Wayland Compositor in Minecraft
 - [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
 - [pcal43/quicksort](https://github.com/pcal43/quicksort) - Minecraft mod.  Low-effort item sorting to keep your workshop organized.
@@ -1113,7 +1117,7 @@
 
 ## react 
 
-- [MegalithOfficial/basalt-launcher](https://github.com/MegalithOfficial/basalt-launcher) - A Minecraft launcher where your worlds set the look. Modrinth and CurseForge, mod loaders, and imports from other launchers.
+- [MegalithOfficial/basalt-launcher](https://github.com/MegalithOfficial/basalt-launcher) - A open source Minecraft launcher written in rust. Modrinth and CurseForge, mod loaders, and imports from other launchers.
 - [Venipa/ytmdesktop2](https://github.com/Venipa/ytmdesktop2) - Unofficial Youtube Music Desktop App, with Discord RPC & LastFM support.
 - [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) - The only downloader you need. 下载器的集大成者.
 - [Kobii-git/rackpad](https://github.com/Kobii-git/rackpad) - Self-hosted infrastructure inventory and operations for homelabs and labs: racks, devices, ports, cables, IPAM, VLANs, WiFi, compute, discovery, monitoring, reports, and topology visualization.
@@ -1138,7 +1142,7 @@
 
 ## rust 
 
-- [MegalithOfficial/basalt-launcher](https://github.com/MegalithOfficial/basalt-launcher) - A Minecraft launcher where your worlds set the look. Modrinth and CurseForge, mod loaders, and imports from other launchers.
+- [MegalithOfficial/basalt-launcher](https://github.com/MegalithOfficial/basalt-launcher) - A open source Minecraft launcher written in rust. Modrinth and CurseForge, mod loaders, and imports from other launchers.
 - [iffse/pay-respects](https://github.com/iffse/pay-respects) - Command suggestions, command-not-found and thefuck replacement written in Rust
 - [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis) - Open-source desktop SQL workspace for PostgreSQL, MySQL/MariaDB, SQLite and 15+ more databases like DuckDB, ClickHouse, Redis and Firestore. Built-in MCP server for Claude, Cursor and Devin, SQL noteb
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
@@ -1205,6 +1209,7 @@
 
 ## server 
 
+- [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - server status & toolbox
 - [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard, primarily used by smaller private servers
 
 ## shell 
@@ -1273,7 +1278,7 @@
 
 ## typescript 
 
-- [MegalithOfficial/basalt-launcher](https://github.com/MegalithOfficial/basalt-launcher) - A Minecraft launcher where your worlds set the look. Modrinth and CurseForge, mod loaders, and imports from other launchers.
+- [MegalithOfficial/basalt-launcher](https://github.com/MegalithOfficial/basalt-launcher) - A open source Minecraft launcher written in rust. Modrinth and CurseForge, mod loaders, and imports from other launchers.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [Venipa/ytmdesktop2](https://github.com/Venipa/ytmdesktop2) - Unofficial Youtube Music Desktop App, with Discord RPC & LastFM support.
 - [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis) - Open-source desktop SQL workspace for PostgreSQL, MySQL/MariaDB, SQLite and 15+ more databases like DuckDB, ClickHouse, Redis and Firestore. Built-in MCP server for Claude, Cursor and Devin, SQL noteb
