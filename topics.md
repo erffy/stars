@@ -907,6 +907,7 @@
 
 ## others 
 
+- [frknkrc44/HMA-OSS](https://github.com/frknkrc44/HMA-OSS) - A Zygisk module to hide your app list, settings, package installers and more. It is a fork of Hide My Applist project, but LSPosed dependency is replaced with Zygisk.
 - [jp7677/dxvk-nvapi](https://github.com/jp7677/dxvk-nvapi) - Alternative NVAPI implementation on top of DXVK.
 - [bearinmindcat/ungoogled-chromium-android](https://github.com/bearinmindcat/ungoogled-chromium-android) - Android build for ungoogled-chromium
 - [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
