@@ -216,6 +216,7 @@
 
 ## Kotlin 
 
+- [frknkrc44/HMA-OSS](https://github.com/frknkrc44/HMA-OSS) - A Zygisk module to hide your app list, settings, package installers and more. It is a fork of Hide My Applist project, but LSPosed dependency is replaced with Zygisk.
 - [sonic-liberation/spotube-plugin-spotify](https://github.com/sonic-liberation/spotube-plugin-spotify) - Unofficial Spotify metadata plugin for Spotube
 - [Spotui/Spotui](https://github.com/Spotui/Spotui) - Spotify clone with deep integration
 - [FeDeveloper95/Game-Hub](https://github.com/FeDeveloper95/Game-Hub) - A simple launcher with material 3 expressive ui for all your games.
