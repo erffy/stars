@@ -1005,7 +1005,6 @@
 - [saivert/pwvucontrol](https://github.com/saivert/pwvucontrol) - Pipewire Volume Control
 - [ErikReider/SwayOSD](https://github.com/ErikReider/SwayOSD) - A GTK based on screen display for keyboard shortcuts like caps-lock and volume
 - [xeome/riscv-kernel](https://github.com/xeome/riscv-kernel) - riscv toy kernel
-- [Kernel-SU/ksuinit](https://github.com/Kernel-SU/ksuinit) - 
 - [bouquet2/water](https://github.com/bouquet2/water) - 💧 Simple upgrade tool made for bouquet2 that manages Talos Linux and Kubernetes versions in a declarative manner.
 - [CachyOS/CachyOS-Live-ISO](https://github.com/CachyOS/CachyOS-Live-ISO) - 
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
