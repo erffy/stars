@@ -182,6 +182,7 @@
 
 ## android 
 
+- [iTomKo/Outify](https://github.com/iTomKo/Outify) - Third party open source Android Spotify client with Material 3 using librespot Rust
 - [montafra/beam](https://github.com/montafra/beam) - Beam is an Android app that displays real-time battery metrics as a persistent notification
 - [pass-with-high-score/universal-installer](https://github.com/pass-with-high-score/universal-installer) - A modern Android app for installing and managing APK packages with split APK support, silent install via Shizuku, and VirusTotal malware scanning.
 - [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - server status & toolbox
@@ -579,6 +580,7 @@
 
 ## gui 
 
+- [crmne/spotifast](https://github.com/crmne/spotifast) - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
 - [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis is a download manager written in Python.
 - [ianprime0509/zig-gobject](https://github.com/ianprime0509/zig-gobject) - GObject bindings for Zig using GObject introspection
 - [Relm4/Relm4](https://github.com/Relm4/Relm4) - Build truly native applications with ease!
@@ -640,6 +642,7 @@
 
 ## java 
 
+- [iTomKo/Outify](https://github.com/iTomKo/Outify) - Third party open source Android Spotify client with Material 3 using librespot Rust
 - [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
 - [oracle/graal](https://github.com/oracle/graal) - GraalVM compiles applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀
 - [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically installs/upgrades versions, modloaders, modpacks and more at startup
@@ -667,6 +670,7 @@
 
 ## kotlin 
 
+- [iTomKo/Outify](https://github.com/iTomKo/Outify) - Third party open source Android Spotify client with Material 3 using librespot Rust
 - [montafra/beam](https://github.com/montafra/beam) - Beam is an Android app that displays real-time battery metrics as a persistent notification
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
 - [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic) - A cross-platform music app using YouTube Music for backend
@@ -701,6 +705,7 @@
 
 ## linux 
 
+- [crmne/spotifast](https://github.com/crmne/spotifast) - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
 - [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis is a download manager written in Python.
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
 - [anandnet/Harmony-Music](https://github.com/anandnet/Harmony-Music) - A cross platform App for streaming Music
@@ -758,6 +763,7 @@
 
 ## macos 
 
+- [crmne/spotifast](https://github.com/crmne/spotifast) - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
 - [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.
@@ -784,6 +790,7 @@
 
 ## material-design 
 
+- [iTomKo/Outify](https://github.com/iTomKo/Outify) - Third party open source Android Spotify client with Material 3 using librespot Rust
 - [montafra/beam](https://github.com/montafra/beam) - Beam is an Android app that displays real-time battery metrics as a persistent notification
 - [FeDeveloper95/Game-Hub](https://github.com/FeDeveloper95/Game-Hub) - A simple launcher with material 3 expressive ui for all your games.
 - [rukamori/ArchiveTune](https://github.com/rukamori/ArchiveTune) - 🌸 The Cutest Music Player With Support Local File and Youtube Music for Android!
@@ -837,6 +844,8 @@
 
 ## music 
 
+- [crmne/spotifast](https://github.com/crmne/spotifast) - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
+- [iTomKo/Outify](https://github.com/iTomKo/Outify) - Third party open source Android Spotify client with Material 3 using librespot Rust
 - [Venipa/ytmdesktop2](https://github.com/Venipa/ytmdesktop2) - Unofficial Youtube Music Desktop App, with Discord RPC & LastFM support.
 - [anandnet/Harmony-Music](https://github.com/anandnet/Harmony-Music) - A cross platform App for streaming Music
 - [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic) - A cross-platform music app using YouTube Music for backend
@@ -917,6 +926,7 @@
 
 ## others 
 
+- [crimera/piko](https://github.com/crimera/piko) - morphe patches for twitter and instagram
 - [DanGLVK/Hide-Navbar](https://github.com/DanGLVK/Hide-Navbar) - Hide Navbar
 - [frknkrc44/HMA-OSS](https://github.com/frknkrc44/HMA-OSS) - A Zygisk module to hide your app list, settings, package installers and more. It is a fork of Hide My Applist project, but LSPosed dependency is replaced with Zygisk.
 - [jp7677/dxvk-nvapi](https://github.com/jp7677/dxvk-nvapi) - Alternative NVAPI implementation on top of DXVK.
@@ -1168,6 +1178,8 @@
 
 ## rust 
 
+- [crmne/spotifast](https://github.com/crmne/spotifast) - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
+- [iTomKo/Outify](https://github.com/iTomKo/Outify) - Third party open source Android Spotify client with Material 3 using librespot Rust
 - [MegalithOfficial/basalt-launcher](https://github.com/MegalithOfficial/basalt-launcher) - A open source Minecraft launcher written in rust. Modrinth and CurseForge, mod loaders, and imports from other launchers.
 - [iffse/pay-respects](https://github.com/iffse/pay-respects) - Command suggestions, command-not-found and thefuck replacement written in Rust
 - [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis) - Open-source desktop SQL workspace with 3 built-in database drivers and 16 shipped plugins, including SQL Server, DuckDB, ClickHouse and Redis. Built-in MCP server for Claude, Cursor and Devin, SQL not
@@ -1365,6 +1377,7 @@
 
 ## windows 
 
+- [crmne/spotifast](https://github.com/crmne/spotifast) - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
 - [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis is a download manager written in Python.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [itsfatduck/optimizerDuck](https://github.com/itsfatduck/optimizerDuck) - Free, open-source Windows optimization tool for performance, privacy, and simplicity.
